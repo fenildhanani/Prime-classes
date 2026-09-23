@@ -1,0 +1,43 @@
+30. CreditWise Loan System (Minor Project)
+
+1
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/08478774c709286abb5ca8c1061f93c0ef5b84df.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\30. CreditWise Loan System (Minor Project)/1. Project Introduction.mp4"
+
+2
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/9db0c5ab68035c79df4aca927106699b4337158f.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\30. CreditWise Loan System (Minor Project)/2. Handle Missing Data.mp4"
+
+3
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/038053cdab4e20a1729a8ad153cf24b7d1e40102.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\30. CreditWise Loan System (Minor Project)/3. Exploratory Data Analysis (EDA).mp4"
+
+4
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/95793ccb0f3d0fe91b41719480ec0a4cde29f433.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\30. CreditWise Loan System (Minor Project)/4. Feature Encoding.mp4"
+
+5
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/b48b8579c5702d35ce9581e3bf92ae701aee1118.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\30. CreditWise Loan System (Minor Project)/5. Correlation Heatmap.mp4"
+
+6
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/24d0e6c5e04692115aec4273303b898f02a8446b.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\30. CreditWise Loan System (Minor Project)/6. Feature Scaling.mp4"
+
+7
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/d3196deb4ec354565a51e6de69b02cd5f827032e.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\30. CreditWise Loan System (Minor Project)/7. Model Training & Evaluation.mp4"
+
+8
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/84a445f9a4c89c3e7c13aa2a1585175edfd7c78c.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\30. CreditWise Loan System (Minor Project)/8. Feature Engineering to Improve Model.mp4"
+
+9
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/a953b271d67e0b6355a7cb57e95ee14fc0b403cd.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\30. CreditWise Loan System (Minor Project)/9. Important Pointers.mp4"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
