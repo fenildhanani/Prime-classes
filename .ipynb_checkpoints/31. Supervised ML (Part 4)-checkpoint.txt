@@ -1,0 +1,71 @@
+31. Supervised ML (Part 4)
+
+1
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/33be8bb2b141aeaf3ea82b2446046e3c5c9ca26b.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/1. Introduction to Decision Trees.mp4"
+
+2
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/2f8d0f5096fa7857db99acb70232cdfbeb3853d6.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/2. Decision Tree Classifier.mp4"
+
+3
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/6fab5c368d3ab8b738ff422e41dcdb1898ba3bb5.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/3. Entropy (Impurity Metric).mp4"
+
+4
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/fa29f4fa0d407db63f7c06193f321bce387722ca.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/4. Gini Impurity.mp4"
+
+5
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/d86e68807ee0fe2ed6902a0ace18c7847790005c.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/5. Entropy VS Gini Impurity.mp4"
+
+6
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/bbd18480b844f7be457305c1b88dc630e5f7d375.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/6. Information Gain.mp4"
+
+7
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/79f3edfcd65149ac4ba8aba7fe3178a66d7b364b.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/7. Pruning Decision Trees.mp4"
+
+8
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/49052395d7aa813ffc60ff289bdaf3464aa44402.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/8. Common Pruning Rules.mp4"
+
+9
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/1279a51d1ecef144fc09ea70669dd0e2a506c5d2.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/9. Decision Tree Classifier (Code).mp4
+
+10
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/ce41c9f872442f80ab637424a823b8ff6fa74064.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/10. Pre-Pruning Implementation.mp4"
+
+11
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/ab099455041530391bbb402305d4f934cd097996.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/11. Post-Pruning Implementation.mp4"
+
+12
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/50b3985aff6b24d37d7916cae70af068dc92e24f.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/12. Decision Tree Regressor.mp4"
+
+13
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/1acfd3da13de231d6c31f99b1cf1e5a9267f348b.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/13. Variance Reduction.mp4"
+
+14
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/135c0a41f0580f53eebd33ab08a289162d55d556.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\31. Supervised ML (Part 4)/14. Decision Tree Regressor (Code).mp4"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

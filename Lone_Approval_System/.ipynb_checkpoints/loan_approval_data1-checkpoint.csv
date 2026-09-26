@@ -1,0 +1,1001 @@
+Applicant_ID,Applicant_Income,Coapplicant_Income,Employment_Status,Age,Marital_Status,Dependents,Credit_Score,Existing_Loans,DTI_Ratio,Savings,Collateral_Value,Loan_Amount,Loan_Term,Loan_Purpose,Property_Area,Education_Level,Gender,Employer_Category,Loan_Approved
+LP000001,48900,0,Employed,26,Divorced,2,644,2,0.381,11100,0,90000,360,Business,Urban,Postgraduate,Male,Government,N
+LP000002,33400,0,Employed,52,Married,1,582,1,0.316,4400,147600,123000,360,Home Improvement,Urban,Postgraduate,Male,Private Sector,N
+LP000003,53600,21200,Self-Employed,61,Married,3,503,1,0.399,6500,0,172000,180,Education,Urban,Graduate,Male,Government,N
+LP000004,90600,35300,Employed,63,Married,0,661,0,0.455,14600,598800,499000,240,Home Purchase,Rural,High School,Male,Private Sector,N
+LP000005,31600,0,Employed,59,Single,0,690,3,0.426,16100,170400,142000,180,Home Purchase,Rural,Postgraduate,Male,Private Sector,Y
+LP000006,31600,19100,Business Owner,51,Married,1,675,0,0.367,70200,105600,88000,240,Business,Rural,Graduate,Male,Government,N
+LP000007,93700,0,Employed,62,Married,0,668,1,0.321,15900,219200,274000,240,Home Improvement,Rural,Graduate,Male,Private Sector,N
+LP000008,57600,25200,Employed,30,Married,3,683,1,0.222,39100,387600,323000,120,Education,Urban,Graduate,Female,Private Sector,Y
+LP000009,27400,20100,Business Owner,50,Married,0,761,1,0.394,12000,368000,184000,360,Home Purchase,Urban,Graduate,Female,Government,Y
+LP000010,50300,12400,Employed,38,Single,1,664,1,0.488,11500,0,237000,120,Debt Consolidation,Urban,Graduate,Female,Self-Employed,N
+LP000011,27500,15400,Employed,44,Married,1,634,0,0.354,4900,130800,109000,360,Debt Consolidation,Rural,Graduate,Female,Private Sector,N
+LP000012,27500,12100,Employed,29,Married,2,657,1,0.512,8100,0,113000,240,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000013,42000,0,Employed,51,Married,0,726,2,0.167,24600,0,138000,360,Debt Consolidation,Urban,Graduate,Female,Private Sector,Y
+LP000014,11500,18200,Employed,35,Married,0,792,2,0.205,17700,157200,131000,240,Home Improvement,Urban,Postgraduate,Female,PSU,Y
+LP000015,12900,0,Business Owner,24,Divorced,2,629,0,0.406,29800,0,32000,360,Home Purchase,Semiurban,Graduate,Male,MNC,N
+LP000016,25900,17500,Employed,60,Married,0,687,2,0.346,17700,0,185000,360,Home Purchase,Semiurban,Postgraduate,Male,Government,Y
+LP000017,19800,12700,Employed,29,Divorced,2,707,1,0.451,11900,0,75000,360,Home Improvement,Rural,Graduate,Female,Self-Employed,Y
+LP000018,43900,8500,Employed,29,Married,1,600,2,0.318,74500,280800,234000,180,Debt Consolidation,Urban,Graduate,Female,Private Sector,N
+LP000019,21100,7300,Employed,46,Married,2,681,1,0.233,14100,120000,100000,360,Business,Rural,Graduate,Male,PSU,Y
+LP000020,15600,8200,Self-Employed,24,Single,2,562,1,0.299,31700,0,69000,180,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,N
+LP000021,87500,20600,Employed,37,Married,0,538,3,0.167,8700,433200,361000,120,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,N
+LP000022,31700,23300,Employed,36,Single,1,709,2,0.207,27900,0,127000,240,Personal,Rural,Graduate,Male,Government,Y
+LP000023,37800,0,Employed,35,Divorced,2,649,1,0.417,30400,105600,88000,240,Education,Rural,Postgraduate,Male,Private Sector,N
+LP000024,15400,0,Employed,55,Married,1,696,0,0.407,18300,33600,28000,240,Home Purchase,Urban,Graduate,Male,Government,Y
+LP000025,26200,0,Employed,25,Married,3,678,1,0.356,2300,57600,48000,360,Business,Urban,Doctorate,Male,Private Sector,Y
+LP000026,38800,0,Business Owner,25,Single,1,601,1,0.148,13600,198000,99000,240,Home Purchase,Semiurban,High School,Female,Government,Y
+LP000027,18200,40400,Employed,40,Married,0,676,0,0.284,40300,444000,222000,240,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000028,45500,0,Employed,35,Married,0,581,0,0.198,19700,0,151000,120,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,N
+LP000029,25300,15800,Employed,38,Married,3,791,2,0.438,25200,111000,74000,360,Home Purchase,Rural,Postgraduate,Male,Self-Employed,Y
+LP000030,30500,0,Self-Employed,22,Married,0,571,0,0.262,3200,0,124000,240,Business,Urban,Postgraduate,Female,Self-Employed,N
+LP000031,25300,0,Employed,49,Single,2,664,1,0.211,8300,168000,84000,240,Home Improvement,Semiurban,Postgraduate,Male,PSU,Y
+LP000032,110300,12600,Self-Employed,33,Married,2,596,0,0.323,18400,431200,539000,360,Personal,Urban,High School,Male,MNC,Y
+LP000033,36000,16200,Self-Employed,24,Married,0,725,0,0.256,22400,146400,183000,240,Home Improvement,Rural,Postgraduate,Female,MNC,Y
+LP000034,19300,11000,Business Owner,62,Married,0,653,0,0.468,38400,0,61000,240,Debt Consolidation,Rural,Postgraduate,Male,Government,N
+LP000035,59500,16900,Employed,30,Married,2,638,0,0.247,12700,0,223000,240,Home Improvement,Semiurban,High School,Male,Private Sector,N
+LP000036,17500,18700,Employed,51,Married,0,748,2,0.18,23000,150000,125000,360,Personal,Urban,Postgraduate,Male,Private Sector,Y
+LP000037,41200,0,Business Owner,61,Single,2,682,2,0.105,15400,130000,65000,360,Home Improvement,Rural,Postgraduate,Female,Private Sector,Y
+LP000038,11200,13000,Unemployed,28,Married,1,721,0,0.317,7300,44400,37000,180,Business,Semiurban,Graduate,Male,Self-Employed,Y
+LP000039,16400,19600,Business Owner,23,Single,1,601,1,0.264,2200,81600,68000,180,Education,Urban,Graduate,Female,Private Sector,Y
+LP000040,40900,22500,Employed,29,Single,2,567,1,0.177,17800,214500,143000,180,Home Purchase,Rural,Graduate,Female,Self-Employed,N
+LP000041,56600,0,Employed,50,Married,0,688,2,0.439,17600,126400,158000,360,Home Improvement,Rural,Graduate,Female,Government,N
+LP000042,40200,36500,Employed,31,Married,1,654,2,0.387,8900,0,227000,360,Business,Semiurban,Graduate,Female,MNC,N
+LP000043,33900,0,Self-Employed,55,Married,0,730,1,0.317,4500,0,65000,240,Personal,Semiurban,Doctorate,Male,Private Sector,Y
+LP000044,30300,0,Employed,57,Married,0,673,1,0.456,24800,85600,107000,180,Home Purchase,Urban,Postgraduate,Male,Private Sector,Y
+LP000045,15000,0,Employed,62,Single,1,696,2,0.386,12500,0,49000,360,Debt Consolidation,Semiurban,Postgraduate,Male,PSU,Y
+LP000046,23600,20300,Business Owner,33,Single,2,550,0,0.238,19100,0,105000,360,Home Improvement,Semiurban,Graduate,Male,Private Sector,N
+LP000047,27500,29000,Employed,56,Married,0,831,1,0.216,82200,0,87000,360,Home Purchase,Urban,High School,Female,Private Sector,Y
+LP000048,68500,20800,Business Owner,33,Married,1,666,3,0.402,2700,0,155000,360,Home Improvement,Urban,Postgraduate,Male,Private Sector,N
+LP000049,44600,13300,Employed,32,Single,2,735,2,0.36,9400,310000,155000,360,Home Purchase,Urban,Postgraduate,Male,Private Sector,Y
+LP000050,12600,0,Employed,57,Divorced,0,613,1,0.337,11500,0,25000,120,Home Purchase,Urban,Graduate,Female,Private Sector,N
+LP000051,44100,0,Employed,30,Married,0,704,1,0.235,50200,139200,116000,180,Debt Consolidation,Semiurban,Graduate,Female,Government,Y
+LP000052,28800,0,Self-Employed,29,Married,3,575,0,0.381,3500,116400,97000,120,Debt Consolidation,Semiurban,Postgraduate,Female,Government,N
+LP000053,24200,17700,Employed,27,Married,2,716,1,0.244,75000,158400,132000,360,Debt Consolidation,Semiurban,Postgraduate,Female,Government,Y
+LP000054,52400,0,Employed,22,Divorced,1,651,1,0.31,16200,0,115000,120,Debt Consolidation,Urban,High School,Female,Private Sector,N
+LP000055,67400,16900,Contract,43,Married,1,682,1,0.465,14100,170400,213000,240,Home Purchase,Semiurban,High School,Female,MNC,N
+LP000056,63500,7000,Employed,59,Married,0,735,2,0.254,14000,0,236000,240,Home Purchase,Rural,Doctorate,Male,MNC,Y
+LP000057,21900,0,Employed,60,Married,1,581,2,0.163,9100,71200,89000,240,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,N
+LP000058,30200,18900,Employed,59,Married,1,625,0,0.215,32200,0,185000,360,Home Purchase,Rural,Doctorate,Male,Private Sector,N
+LP000059,44300,19500,Employed,41,Married,1,716,1,0.419,6800,242400,202000,180,Debt Consolidation,Semiurban,High School,Male,Private Sector,N
+LP000060,65200,10800,Self-Employed,43,Divorced,0,847,1,0.345,24900,236400,197000,240,Business,Semiurban,Graduate,Male,MNC,Y
+LP000061,27200,34000,Employed,49,Married,0,668,1,0.307,10900,190800,159000,360,Home Purchase,Urban,Graduate,Female,MNC,N
+LP000062,32500,0,Employed,34,Married,0,727,0,0.269,8800,160800,134000,120,Home Purchase,Semiurban,Graduate,Female,Self-Employed,Y
+LP000063,18700,0,Employed,46,Married,3,671,1,0.369,118300,24000,30000,360,Home Improvement,Rural,Graduate,Male,Private Sector,Y
+LP000064,17700,22300,Self-Employed,25,Married,1,835,2,0.235,26000,268500,179000,360,Home Purchase,Rural,Graduate,Male,Government,Y
+LP000065,59100,13100,Employed,51,Married,1,540,1,0.351,19600,0,252000,360,Personal,Rural,Graduate,Female,Private Sector,N
+LP000066,81900,0,Employed,45,Married,0,687,3,0.247,38000,348000,290000,360,Home Improvement,Urban,Postgraduate,Female,Private Sector,Y
+LP000067,34800,9900,Employed,51,Married,0,549,4,0.23,3900,108000,72000,240,Home Purchase,Semiurban,Graduate,Male,Government,Y
+LP000068,66300,28600,Employed,40,Married,2,479,0,0.256,43300,378000,315000,240,Home Purchase,Semiurban,Graduate,Male,Private Sector,N
+LP000069,45100,29700,Employed,64,Married,1,703,0,0.282,2100,176800,221000,120,Debt Consolidation,Semiurban,Postgraduate,Female,MNC,Y
+LP000070,24700,0,Employed,37,Married,1,691,3,0.315,8300,54000,45000,180,Home Purchase,Urban,High School,Male,Government,Y
+LP000071,45100,36200,Business Owner,22,Divorced,0,657,3,0.344,10100,0,190000,120,Home Purchase,Rural,Doctorate,Female,MNC,N
+LP000072,91400,15900,Employed,45,Divorced,2,671,0,0.05,23800,0,448000,240,Home Purchase,Rural,Postgraduate,Male,Private Sector,Y
+LP000073,35500,0,Contract,33,Married,0,850,0,0.239,22500,0,112000,360,Business,Semiurban,Graduate,Male,Self-Employed,Y
+LP000074,92900,0,Contract,59,Married,0,659,0,0.281,12800,0,255000,240,Debt Consolidation,Urban,Graduate,Male,PSU,N
+LP000075,7500,16900,Employed,48,Single,1,720,4,0.471,15900,50400,42000,240,Home Purchase,Urban,Graduate,Male,Self-Employed,Y
+LP000076,59500,0,Employed,62,Married,0,628,0,0.212,6400,325500,217000,240,Home Improvement,Semiurban,Graduate,Male,MNC,Y
+LP000077,38300,26800,Employed,26,Single,0,703,1,0.336,4700,0,235000,240,Debt Consolidation,Urban,Graduate,Male,MNC,Y
+LP000078,30400,7500,Self-Employed,23,Divorced,1,660,2,0.47,26300,254000,127000,360,Debt Consolidation,Rural,Doctorate,Female,Government,N
+LP000079,38400,0,Employed,55,Married,2,647,0,0.189,25100,232000,116000,180,Home Purchase,Semiurban,Graduate,Male,Private Sector,N
+LP000080,11000,7900,Employed,38,Married,2,825,1,0.359,65300,106000,53000,360,Debt Consolidation,Semiurban,Graduate,Female,MNC,Y
+LP000081,31800,0,Employed,31,Divorced,1,774,0,0.24,9200,156000,104000,240,Personal,Semiurban,Graduate,Male,MNC,Y
+LP000082,45000,31700,Business Owner,40,Married,0,690,2,0.27,26700,135200,169000,120,Home Purchase,Urban,Postgraduate,Female,PSU,Y
+LP000083,88100,0,Self-Employed,25,Married,0,495,0,0.24,8800,0,381000,240,Home Purchase,Rural,Graduate,Male,Government,N
+LP000084,26600,14700,Employed,39,Married,3,651,1,0.247,37600,162000,135000,360,Home Purchase,Semiurban,Graduate,Male,Private Sector,Y
+LP000085,22400,0,Self-Employed,42,Married,1,850,1,0.592,42900,66000,55000,120,Home Purchase,Rural,Graduate,Male,MNC,Y
+LP000086,26900,0,Employed,39,Single,2,661,0,0.404,17400,115500,77000,120,Home Purchase,Semiurban,Graduate,Male,PSU,N
+LP000087,62900,15500,Employed,36,Single,0,768,0,0.43,13000,614000,307000,180,Business,Semiurban,Graduate,Female,Private Sector,Y
+LP000088,44200,0,Business Owner,44,Divorced,1,795,1,0.369,38200,105600,88000,360,Education,Urban,Graduate,Female,Private Sector,Y
+LP000089,26400,34700,Employed,61,Married,0,697,0,0.159,26000,116000,145000,360,Home Purchase,Semiurban,Graduate,Female,Government,Y
+LP000090,49400,0,Employed,24,Married,1,612,2,0.359,7900,0,175000,240,Debt Consolidation,Semiurban,Postgraduate,Male,Private Sector,N
+LP000091,38500,13600,Employed,35,Married,3,485,2,0.427,3700,0,127000,240,Home Improvement,Semiurban,Postgraduate,Female,Private Sector,N
+LP000092,64900,0,Business Owner,45,Married,3,734,1,0.235,13000,302400,252000,360,Debt Consolidation,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000093,23800,7800,Self-Employed,64,Married,1,614,1,0.417,46000,72000,60000,360,Debt Consolidation,Urban,Graduate,Female,Self-Employed,N
+LP000094,29800,12100,Self-Employed,55,Divorced,1,694,1,0.39,38700,238500,159000,360,Home Purchase,Rural,Graduate,Female,Private Sector,Y
+LP000095,28700,0,Self-Employed,34,Single,3,580,2,0.505,5300,58800,49000,360,Debt Consolidation,Rural,Graduate,Male,Private Sector,N
+LP000096,15100,0,Employed,39,Married,2,658,1,0.278,5800,46000,23000,360,Debt Consolidation,Urban,Graduate,Male,MNC,Y
+LP000097,43400,0,Employed,58,Married,0,682,0,0.21,42100,218400,182000,240,Business,Rural,Graduate,Male,PSU,Y
+LP000098,42500,13400,Employed,56,Married,1,701,0,0.284,6300,271500,181000,360,Business,Urban,Graduate,Female,PSU,Y
+LP000099,36400,0,Employed,27,Married,0,590,1,0.464,19700,0,93000,360,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,N
+LP000100,31500,20700,Employed,50,Single,1,775,1,0.137,10500,172500,115000,120,Home Purchase,Urban,High School,Female,PSU,Y
+LP000101,15500,0,Contract,39,Married,1,632,1,0.113,51300,62400,52000,120,Education,Rural,Postgraduate,Male,Private Sector,Y
+LP000102,28200,0,Employed,45,Divorced,1,546,0,0.329,6600,0,85000,360,Debt Consolidation,Urban,Graduate,Male,MNC,N
+LP000103,29600,14200,Employed,36,Married,0,671,2,0.276,37300,0,196000,180,Business,Semiurban,Postgraduate,Male,Government,Y
+LP000104,22400,17900,Employed,60,Married,0,682,0,0.321,17600,358000,179000,360,Home Purchase,Semiurban,Graduate,Male,Private Sector,Y
+LP000105,33000,0,Employed,28,Single,1,692,0,0.415,18900,0,112000,240,Debt Consolidation,Urban,Postgraduate,Female,Government,N
+LP000106,46300,0,Business Owner,38,Married,2,788,1,0.265,3600,157200,131000,180,Debt Consolidation,Semiurban,Graduate,Male,Private Sector,Y
+LP000107,112600,0,Employed,48,Married,2,661,0,0.133,2500,268000,335000,120,Business,Urban,Graduate,Female,Self-Employed,N
+LP000108,40300,17100,Employed,36,Married,0,670,1,0.524,12500,244800,204000,180,Home Purchase,Semiurban,High School,Male,Private Sector,Y
+LP000109,42400,17300,Self-Employed,39,Married,3,591,1,0.22,16000,162000,108000,180,Home Purchase,Rural,Postgraduate,Male,Government,N
+LP000110,34700,15000,Employed,62,Single,3,745,1,0.214,6700,99200,124000,240,Debt Consolidation,Rural,Graduate,Female,Private Sector,Y
+LP000111,11500,15800,Employed,37,Married,0,694,1,0.43,6500,56400,47000,360,Business,Rural,Graduate,Male,Private Sector,Y
+LP000112,35700,40100,Employed,33,Single,0,646,0,0.282,22500,260000,130000,360,Education,Urban,Graduate,Female,PSU,Y
+LP000113,37700,23900,Employed,27,Married,2,527,0,0.314,18400,193500,129000,240,Personal,Urban,High School,Female,MNC,Y
+LP000114,159200,15600,Unemployed,47,Married,2,795,2,0.368,15900,775500,517000,240,Personal,Semiurban,Postgraduate,Female,PSU,Y
+LP000115,32400,0,Self-Employed,30,Single,3,581,1,0.428,24100,150000,125000,240,Home Purchase,Urban,Doctorate,Male,Private Sector,N
+LP000116,43500,0,Employed,54,Married,2,632,1,0.287,5500,0,129000,240,Home Purchase,Rural,Graduate,Male,Private Sector,Y
+LP000117,35600,0,Business Owner,56,Married,1,708,0,0.472,11900,106800,89000,240,Home Purchase,Urban,Postgraduate,Female,Government,Y
+LP000118,18000,0,Employed,45,Married,1,584,1,0.106,48600,37200,31000,120,Home Purchase,Rural,Postgraduate,Female,Government,Y
+LP000119,72100,17100,Employed,26,Married,0,560,1,0.396,13200,0,281000,120,Business,Urban,Graduate,Female,Private Sector,N
+LP000120,57000,22600,Employed,44,Married,0,510,1,0.236,12600,147200,184000,120,Education,Rural,Graduate,Male,MNC,N
+LP000121,58400,0,Employed,38,Married,1,737,2,0.457,103800,0,195000,180,Home Purchase,Urban,Postgraduate,Male,Private Sector,N
+LP000122,21000,0,Employed,43,Married,1,636,0,0.334,4600,111600,93000,360,Home Improvement,Urban,Postgraduate,Female,Private Sector,Y
+LP000123,84300,9900,Self-Employed,26,Married,1,850,0,0.253,35800,259500,173000,180,Education,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000124,15700,19400,Business Owner,49,Divorced,2,600,2,0.386,50600,0,75000,360,Debt Consolidation,Urban,Postgraduate,Male,Government,N
+LP000125,51600,0,Employed,45,Married,0,606,3,0.409,10400,181200,151000,360,Home Purchase,Semiurban,Postgraduate,Male,MNC,N
+LP000126,135200,55000,Employed,37,Single,1,634,0,0.384,28100,1676000,838000,360,Debt Consolidation,Semiurban,Postgraduate,Female,Government,N
+LP000127,20000,0,Employed,44,Married,0,699,1,0.217,7100,0,76000,360,Home Purchase,Urban,Graduate,Male,Government,Y
+LP000128,25900,0,Employed,31,Married,1,642,0,0.272,8300,130800,109000,180,Debt Consolidation,Rural,Graduate,Male,Private Sector,Y
+LP000129,38600,7300,Employed,46,Single,2,728,0,0.32,22100,230000,115000,240,Debt Consolidation,Semiurban,Postgraduate,Male,Self-Employed,Y
+LP000130,26800,13700,Employed,54,Married,2,601,0,0.316,25300,362000,181000,180,Home Purchase,Semiurban,High School,Male,Self-Employed,N
+LP000131,14300,0,Business Owner,48,Single,3,569,0,0.395,31100,0,26000,360,Personal,Semiurban,Graduate,Female,MNC,N
+LP000132,37800,13200,Employed,23,Married,0,536,2,0.119,41900,0,85000,360,Debt Consolidation,Semiurban,Graduate,Male,Private Sector,N
+LP000133,19200,16600,Employed,31,Married,1,502,1,0.353,10600,0,146000,360,Debt Consolidation,Urban,Graduate,Male,Government,N
+LP000134,48300,14200,Employed,58,Married,0,638,0,0.291,36900,321600,268000,240,Personal,Urban,Graduate,Male,Government,Y
+LP000135,20900,6700,Employed,34,Married,1,655,0,0.236,11100,58800,49000,360,Home Purchase,Semiurban,Graduate,Male,PSU,N
+LP000136,92000,26200,Employed,46,Single,2,629,2,0.246,28800,261600,218000,120,Home Purchase,Semiurban,Postgraduate,Female,PSU,N
+LP000137,22700,10500,Self-Employed,41,Married,2,779,0,0.299,20500,42400,53000,120,Business,Urban,Graduate,Male,Self-Employed,Y
+LP000138,29900,20300,Employed,59,Divorced,2,778,1,0.05,24700,0,91000,360,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000139,59200,0,Self-Employed,50,Divorced,0,653,0,0.25,20400,151200,126000,240,Business,Semiurban,Postgraduate,Male,PSU,Y
+LP000140,17400,0,Employed,28,Married,2,536,1,0.232,3300,92400,77000,360,Home Purchase,Urban,High School,Male,Government,N
+LP000141,41600,0,Employed,40,Married,0,634,0,0.373,5700,175200,146000,120,Home Purchase,Urban,Graduate,Male,MNC,N
+LP000142,79600,15600,Employed,52,Single,2,632,0,0.239,15300,438000,365000,360,Debt Consolidation,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000143,13800,0,Business Owner,42,Divorced,0,627,0,0.298,3600,42400,53000,240,Home Purchase,Urban,Graduate,Female,Private Sector,N
+LP000144,40600,48000,Employed,27,Married,0,624,0,0.474,27000,220000,275000,360,Business,Urban,Graduate,Male,Government,N
+LP000145,42400,9800,Self-Employed,29,Married,1,627,1,0.419,28000,0,203000,360,Home Improvement,Urban,Postgraduate,Female,Private Sector,N
+LP000146,58100,0,Employed,21,Married,3,649,1,0.41,18800,152800,191000,360,Education,Rural,Postgraduate,Male,Private Sector,N
+LP000147,17300,14300,Self-Employed,49,Single,0,629,0,0.27,5700,0,77000,180,Business,Semiurban,Graduate,Male,Self-Employed,N
+LP000148,16400,0,Employed,28,Married,0,696,0,0.374,46700,41600,52000,360,Home Purchase,Urban,High School,Male,Private Sector,Y
+LP000149,49700,67700,Self-Employed,24,Single,2,708,1,0.297,80400,0,364000,180,Business,Urban,Postgraduate,Female,Private Sector,Y
+LP000150,43400,0,Employed,55,Married,0,607,1,0.3,15200,0,172000,120,Home Improvement,Semiurban,Postgraduate,Male,Private Sector,N
+LP000151,42200,20500,Contract,23,Married,0,781,3,0.361,26200,334800,279000,240,Home Improvement,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000152,44700,22800,Employed,60,Married,1,601,1,0.26,15700,147200,184000,360,Business,Rural,Graduate,Male,PSU,N
+LP000153,24100,31000,Employed,27,Married,0,550,1,0.469,18700,250800,209000,240,Debt Consolidation,Rural,Postgraduate,Male,Private Sector,N
+LP000154,41700,18900,Employed,47,Married,3,710,1,0.304,14400,130800,109000,360,Debt Consolidation,Semiurban,Graduate,Female,Private Sector,Y
+LP000155,43300,21000,Business Owner,21,Married,2,614,3,0.382,13300,295200,246000,360,Home Improvement,Urban,High School,Male,Self-Employed,N
+LP000156,23700,14800,Employed,47,Married,1,705,2,0.466,32400,202000,101000,180,Home Purchase,Rural,Graduate,Female,Self-Employed,Y
+LP000157,111200,20600,Self-Employed,36,Married,3,487,0,0.423,70800,0,213000,360,Home Purchase,Rural,Graduate,Female,Private Sector,N
+LP000158,48300,15200,Employed,58,Married,1,791,0,0.179,5700,196800,164000,120,Home Improvement,Semiurban,Postgraduate,Male,MNC,Y
+LP000159,17800,0,Employed,27,Divorced,0,733,0,0.364,15000,118000,59000,360,Home Purchase,Semiurban,Graduate,Male,MNC,N
+LP000160,53800,15000,Employed,64,Married,0,559,1,0.405,4800,192000,128000,240,Home Purchase,Urban,Graduate,Female,MNC,N
+LP000161,20200,21800,Contract,43,Married,1,561,2,0.409,44600,0,179000,240,Home Purchase,Urban,Graduate,Male,Government,N
+LP000162,58200,17800,Self-Employed,61,Married,0,813,1,0.209,11300,105600,132000,240,Home Improvement,Semiurban,High School,Male,PSU,Y
+LP000163,72800,0,Contract,31,Divorced,3,621,0,0.254,4400,0,312000,180,Home Purchase,Rural,Graduate,Female,Private Sector,N
+LP000164,22200,17600,Employed,62,Married,2,613,2,0.419,22700,172800,144000,240,Business,Semiurban,Graduate,Female,Private Sector,Y
+LP000165,64700,0,Self-Employed,53,Single,0,498,2,0.244,44800,193200,161000,180,Home Purchase,Rural,Graduate,Female,Private Sector,Y
+LP000166,46500,33900,Self-Employed,56,Single,1,651,0,0.29,24600,172000,215000,180,Debt Consolidation,Urban,Graduate,Female,Private Sector,N
+LP000167,59500,0,Employed,57,Married,2,661,1,0.478,17300,265200,221000,180,Debt Consolidation,Urban,Graduate,Male,Self-Employed,N
+LP000168,113300,13000,Business Owner,61,Married,3,737,1,0.315,22800,500400,417000,240,Home Improvement,Semiurban,Postgraduate,Male,Government,Y
+LP000169,31300,13400,Contract,37,Single,2,568,2,0.247,39200,188400,157000,360,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000170,23100,0,Business Owner,55,Married,1,558,2,0.232,6200,93000,62000,240,Personal,Semiurban,Graduate,Female,Private Sector,N
+LP000171,21300,6200,Self-Employed,25,Married,2,716,1,0.353,14600,121500,81000,360,Education,Urban,Graduate,Female,Private Sector,Y
+LP000172,22300,0,Employed,52,Single,1,760,1,0.187,11800,0,100000,360,Business,Rural,Graduate,Male,PSU,Y
+LP000173,34700,30600,Employed,23,Married,1,554,2,0.295,4800,168000,140000,360,Education,Rural,Graduate,Male,Government,Y
+LP000174,44600,20200,Contract,55,Single,0,766,1,0.353,13100,0,178000,360,Debt Consolidation,Semiurban,Postgraduate,Male,Government,Y
+LP000175,42900,17500,Employed,34,Married,0,683,0,0.45,36900,171600,143000,240,Debt Consolidation,Urban,Graduate,Female,MNC,Y
+LP000176,59700,20800,Self-Employed,51,Single,1,767,2,0.387,26900,612000,306000,360,Home Improvement,Semiurban,Graduate,Male,MNC,Y
+LP000177,36600,23400,Self-Employed,51,Married,0,674,0,0.249,25100,342000,228000,120,Home Improvement,Rural,Postgraduate,Male,Government,Y
+LP000178,86900,0,Self-Employed,37,Married,0,478,1,0.438,12000,248400,207000,360,Education,Semiurban,Graduate,Female,Private Sector,N
+LP000179,31000,0,Unemployed,44,Married,2,667,2,0.29,22600,43200,54000,360,Home Improvement,Urban,Postgraduate,Female,Self-Employed,N
+LP000180,185700,18900,Employed,43,Divorced,0,764,2,0.196,9000,0,314000,180,Personal,Urban,Graduate,Male,MNC,Y
+LP000181,52900,16300,Employed,38,Married,1,608,1,0.303,10600,231600,193000,360,Home Purchase,Urban,Graduate,Female,MNC,N
+LP000182,21700,16700,Employed,34,Married,1,648,0,0.464,16800,0,105000,120,Business,Urban,Postgraduate,Male,PSU,N
+LP000183,19100,16400,Employed,35,Married,3,665,1,0.337,18500,190800,159000,180,Home Improvement,Rural,Graduate,Male,MNC,Y
+LP000184,48500,0,Employed,35,Married,1,448,0,0.321,12900,0,141000,120,Home Improvement,Rural,High School,Male,MNC,N
+LP000185,31800,24300,Employed,26,Married,0,813,0,0.484,16200,101600,127000,360,Home Purchase,Urban,Postgraduate,Female,PSU,Y
+LP000186,55700,0,Business Owner,47,Married,1,607,2,0.177,10000,0,232000,360,Business,Urban,Postgraduate,Female,Private Sector,N
+LP000187,48200,25000,Contract,35,Married,2,720,0,0.191,200500,436000,218000,360,Education,Urban,High School,Male,Government,Y
+LP000188,34800,0,Employed,56,Married,3,673,1,0.158,31000,138000,115000,120,Home Purchase,Rural,Postgraduate,Female,Government,Y
+LP000189,21800,0,Employed,28,Married,1,780,1,0.357,24200,31200,39000,240,Home Improvement,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000190,14600,0,Contract,35,Married,0,712,4,0.337,13200,0,39000,360,Home Purchase,Semiurban,Postgraduate,Female,Self-Employed,Y
+LP000191,27800,0,Employed,23,Single,3,661,1,0.474,10300,144000,120000,180,Personal,Semiurban,Graduate,Female,MNC,N
+LP000192,60700,29000,Employed,33,Married,0,608,0,0.344,12200,0,293000,360,Debt Consolidation,Semiurban,Graduate,Male,MNC,N
+LP000193,41300,0,Employed,61,Married,1,743,0,0.28,20900,126000,105000,120,Home Purchase,Urban,Graduate,Male,PSU,Y
+LP000194,17200,0,Employed,54,Married,1,530,1,0.32,2600,87000,58000,180,Home Purchase,Urban,Graduate,Female,Private Sector,N
+LP000195,40300,0,Employed,44,Divorced,0,731,1,0.332,4600,205200,171000,240,Home Improvement,Semiurban,Postgraduate,Male,MNC,Y
+LP000196,45800,0,Contract,60,Divorced,0,592,1,0.153,7900,127200,106000,360,Home Purchase,Semiurban,Graduate,Female,Government,N
+LP000197,21400,0,Employed,52,Single,0,780,1,0.591,20500,78000,65000,180,Home Improvement,Urban,Graduate,Male,Private Sector,Y
+LP000198,39800,0,Employed,52,Married,2,692,0,0.372,12700,348000,174000,180,Education,Urban,Postgraduate,Female,Private Sector,Y
+LP000199,37600,29000,Employed,50,Married,3,731,1,0.341,53100,268000,134000,180,Business,Urban,Graduate,Male,Self-Employed,Y
+LP000200,18300,23300,Employed,33,Married,0,686,1,0.382,4700,182400,152000,180,Home Purchase,Semiurban,Graduate,Male,Government,Y
+LP000201,45000,25900,Self-Employed,21,Married,2,539,0,0.391,6600,189600,237000,180,Personal,Semiurban,Postgraduate,Male,MNC,N
+LP000202,50800,23300,Self-Employed,54,Married,0,611,0,0.306,45900,314400,262000,240,Home Improvement,Rural,Postgraduate,Female,Government,N
+LP000203,69600,0,Self-Employed,35,Single,1,733,0,0.257,18100,0,178000,360,Home Purchase,Urban,Postgraduate,Male,Private Sector,Y
+LP000204,68300,22400,Employed,64,Single,0,693,0,0.38,31300,265200,221000,240,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000205,15900,26900,Business Owner,34,Single,3,774,1,0.359,88900,182400,152000,360,Home Purchase,Urban,Graduate,Female,Private Sector,Y
+LP000206,20700,26300,Business Owner,49,Married,2,712,0,0.239,9100,0,101000,360,Business,Semiurban,Postgraduate,Female,PSU,N
+LP000207,49500,0,Self-Employed,54,Single,2,602,0,0.462,12400,0,137000,180,Home Purchase,Semiurban,Graduate,Male,Private Sector,N
+LP000208,49400,0,Employed,38,Married,2,616,0,0.349,11000,122400,102000,120,Home Purchase,Semiurban,Postgraduate,Female,PSU,N
+LP000209,49500,0,Employed,27,Married,1,688,3,0.393,3200,112500,75000,360,Business,Urban,High School,Female,PSU,Y
+LP000210,366500,0,Employed,49,Single,3,494,2,0.459,8600,1939200,1616000,120,Debt Consolidation,Semiurban,Graduate,Male,PSU,N
+LP000211,51200,17800,Self-Employed,51,Married,2,813,0,0.322,36600,231600,193000,180,Business,Rural,Graduate,Male,Government,Y
+LP000212,71800,11600,Employed,45,Married,3,715,0,0.352,24500,294400,368000,120,Home Improvement,Rural,Graduate,Female,PSU,Y
+LP000213,64400,16600,Employed,58,Married,1,778,0,0.401,28400,187200,156000,360,Home Purchase,Rural,Postgraduate,Female,Private Sector,Y
+LP000214,53700,12400,Business Owner,34,Single,0,553,1,0.248,9100,259200,216000,240,Education,Semiurban,Graduate,Male,Private Sector,N
+LP000215,30100,12900,Business Owner,28,Single,1,779,0,0.325,10300,108000,90000,360,Home Purchase,Rural,Graduate,Male,Private Sector,Y
+LP000216,57300,16800,Business Owner,47,Married,0,850,1,0.333,52200,0,287000,360,Debt Consolidation,Urban,Postgraduate,Male,Self-Employed,Y
+LP000217,22800,12100,Employed,22,Single,1,574,1,0.224,8600,160800,134000,240,Home Improvement,Urban,Graduate,Female,Private Sector,N
+LP000218,31500,0,Self-Employed,37,Married,1,741,2,0.552,20900,46400,58000,240,Home Purchase,Urban,Graduate,Male,Government,Y
+LP000219,27100,0,Employed,57,Married,1,680,0,0.179,17300,92000,115000,180,Personal,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000220,38100,0,Employed,34,Single,0,556,2,0.19,39900,158000,79000,180,Debt Consolidation,Rural,Graduate,Female,Private Sector,N
+LP000221,145600,18000,Employed,45,Single,0,719,2,0.451,34800,0,546000,180,Home Purchase,Urban,Postgraduate,Female,Private Sector,N
+LP000222,11800,12000,Employed,50,Divorced,1,746,0,0.391,5900,84800,106000,180,Education,Semiurban,Postgraduate,Male,Self-Employed,Y
+LP000223,54800,0,Employed,49,Married,3,631,1,0.217,5400,272400,227000,180,Debt Consolidation,Semiurban,Graduate,Male,Government,N
+LP000224,13800,28800,Business Owner,40,Single,0,773,0,0.381,27400,279000,186000,180,Home Improvement,Rural,High School,Male,Self-Employed,Y
+LP000225,27400,0,Employed,41,Married,1,546,0,0.467,11500,82800,69000,240,Debt Consolidation,Semiurban,Graduate,Male,MNC,N
+LP000226,69800,12300,Self-Employed,42,Single,2,560,0,0.317,8700,178800,149000,360,Business,Rural,Doctorate,Female,PSU,Y
+LP000227,37700,0,Employed,55,Married,1,690,1,0.58,34600,117000,78000,240,Home Purchase,Urban,Graduate,Female,Government,Y
+LP000228,19000,0,Employed,57,Single,0,682,1,0.148,17600,45600,57000,360,Home Purchase,Urban,Graduate,Male,Government,Y
+LP000229,23600,27300,Employed,36,Married,1,622,3,0.389,14400,157600,197000,240,Debt Consolidation,Semiurban,Graduate,Male,Government,N
+LP000230,54600,0,Employed,63,Married,0,744,0,0.437,30900,84800,106000,240,Home Purchase,Urban,Graduate,Male,Government,Y
+LP000231,23400,0,Employed,37,Married,3,722,3,0.409,11900,121500,81000,240,Home Improvement,Urban,Postgraduate,Female,Self-Employed,N
+LP000232,41400,0,Employed,36,Married,0,748,0,0.3,58400,0,102000,180,Home Purchase,Semiurban,Postgraduate,Male,Government,Y
+LP000233,37300,24800,Employed,22,Married,0,670,2,0.291,7900,125600,157000,180,Home Purchase,Semiurban,Postgraduate,Female,MNC,Y
+LP000234,24600,9700,Employed,24,Single,0,728,0,0.364,27400,144000,120000,360,Home Purchase,Semiurban,Graduate,Female,MNC,Y
+LP000235,131400,0,Employed,41,Married,0,644,0,0.402,45200,457200,381000,360,Home Improvement,Urban,Graduate,Male,Private Sector,N
+LP000236,53100,20700,Business Owner,59,Married,2,844,2,0.38,6200,348000,290000,120,Business,Semiurban,Postgraduate,Female,MNC,Y
+LP000237,10800,35600,Employed,54,Married,0,614,0,0.424,10400,109200,91000,180,Home Purchase,Urban,Graduate,Female,Private Sector,N
+LP000238,40600,0,Self-Employed,50,Married,0,848,1,0.218,47100,0,157000,240,Debt Consolidation,Urban,Postgraduate,Female,Government,Y
+LP000239,24400,0,Self-Employed,26,Married,1,682,1,0.297,38300,49200,41000,180,Home Purchase,Semiurban,Postgraduate,Female,MNC,Y
+LP000240,60600,0,Contract,37,Married,0,569,1,0.226,11000,151200,126000,240,Home Improvement,Urban,Graduate,Male,PSU,Y
+LP000241,22600,0,Business Owner,59,Married,0,789,1,0.281,9800,156000,78000,180,Home Purchase,Urban,Postgraduate,Male,Private Sector,Y
+LP000242,33900,33500,Employed,45,Married,2,690,2,0.422,33000,219200,274000,240,Debt Consolidation,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000243,49200,0,Self-Employed,25,Married,2,748,0,0.331,42900,166500,111000,180,Home Improvement,Urban,Postgraduate,Female,Private Sector,Y
+LP000244,61100,14100,Business Owner,25,Married,3,777,1,0.581,6800,224400,187000,240,Education,Rural,Graduate,Female,Private Sector,Y
+LP000245,17700,27000,Employed,40,Married,2,707,2,0.339,6000,0,139000,120,Home Purchase,Semiurban,Graduate,Male,MNC,Y
+LP000246,29700,0,Employed,36,Married,2,632,0,0.326,16900,75600,63000,240,Business,Rural,Graduate,Female,Self-Employed,N
+LP000247,27300,22900,Employed,61,Married,0,758,0,0.331,27900,0,197000,360,Debt Consolidation,Urban,Graduate,Male,MNC,Y
+LP000248,24500,0,Business Owner,57,Single,2,680,2,0.256,11900,188000,94000,240,Education,Semiurban,Graduate,Male,Self-Employed,Y
+LP000249,104700,30600,Business Owner,60,Single,2,734,1,0.314,28100,393000,262000,360,Home Purchase,Urban,Postgraduate,Male,Private Sector,Y
+LP000250,46300,71700,Employed,29,Single,2,507,1,0.433,6400,272800,341000,360,Home Purchase,Rural,Postgraduate,Male,Private Sector,N
+LP000251,17000,21900,Employed,25,Married,1,715,0,0.331,2900,119200,149000,360,Education,Urban,Postgraduate,Male,Private Sector,Y
+LP000252,63000,14000,Employed,62,Single,0,628,1,0.241,10000,154400,193000,360,Home Purchase,Urban,Graduate,Female,Self-Employed,N
+LP000253,129700,0,Employed,22,Single,2,812,0,0.227,19000,352800,441000,360,Home Purchase,Rural,High School,Male,MNC,Y
+LP000254,67500,7400,Unemployed,29,Single,2,729,1,0.275,13000,99200,124000,360,Home Purchase,Urban,Graduate,Male,MNC,Y
+LP000255,14600,12700,Employed,63,Married,3,699,2,0.327,6200,72800,91000,120,Business,Urban,Postgraduate,Male,Private Sector,Y
+LP000256,27200,14700,Employed,56,Married,0,718,0,0.439,3700,98400,82000,240,Home Purchase,Urban,High School,Male,Private Sector,Y
+LP000257,77700,13900,Employed,42,Single,0,600,1,0.186,8900,0,366000,360,Business,Semiurban,Postgraduate,Female,PSU,N
+LP000258,23800,19500,Self-Employed,42,Married,0,809,4,0.288,36900,166500,111000,360,Debt Consolidation,Urban,Doctorate,Male,Private Sector,Y
+LP000259,47400,0,Employed,42,Married,2,839,1,0.334,51000,166500,111000,360,Home Purchase,Semiurban,Postgraduate,Male,MNC,Y
+LP000260,57800,0,Self-Employed,54,Married,0,711,2,0.137,40900,279600,233000,360,Debt Consolidation,Urban,Graduate,Female,Private Sector,Y
+LP000261,20800,18000,Employed,49,Married,0,807,1,0.237,9400,96000,64000,360,Home Purchase,Semiurban,Graduate,Female,Private Sector,Y
+LP000262,35000,0,Employed,58,Married,3,634,2,0.252,5600,0,94000,360,Home Improvement,Semiurban,Graduate,Female,MNC,N
+LP000263,5200,15300,Employed,53,Married,0,616,0,0.24,20400,0,54000,360,Home Improvement,Semiurban,Graduate,Female,Private Sector,N
+LP000264,19600,19500,Employed,38,Married,2,683,0,0.339,25300,110400,92000,240,Debt Consolidation,Semiurban,Postgraduate,Female,MNC,Y
+LP000265,31200,0,Employed,27,Married,0,714,0,0.304,21900,158400,132000,360,Home Purchase,Urban,Graduate,Male,MNC,Y
+LP000266,17200,0,Contract,21,Married,2,648,1,0.264,2900,78000,65000,360,Home Improvement,Urban,Postgraduate,Female,Government,N
+LP000267,96700,13000,Business Owner,53,Married,1,723,2,0.363,8000,279000,186000,360,Business,Urban,Graduate,Female,MNC,Y
+LP000268,15400,0,Unemployed,21,Married,3,704,0,0.492,15300,112000,56000,360,Home Improvement,Semiurban,Graduate,Female,Government,Y
+LP000269,27900,9200,Employed,44,Single,3,600,1,0.484,19700,136800,114000,240,Business,Semiurban,High School,Female,Private Sector,N
+LP000270,39300,0,Contract,24,Single,0,721,2,0.128,29700,247500,165000,120,Home Purchase,Rural,Graduate,Female,MNC,Y
+LP000271,86200,14200,Employed,24,Married,0,749,1,0.378,18700,0,245000,360,Education,Urban,Postgraduate,Male,Government,Y
+LP000272,15300,0,Employed,38,Married,0,693,1,0.302,20100,0,49000,240,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000273,73000,20600,Employed,47,Married,2,772,1,0.336,18400,337200,281000,180,Home Purchase,Semiurban,Graduate,Female,Self-Employed,Y
+LP000274,36500,19900,Employed,63,Single,2,582,0,0.28,22400,200400,167000,180,Business,Semiurban,Graduate,Male,Government,N
+LP000275,20200,27600,Self-Employed,52,Married,1,717,0,0.332,20500,164400,137000,360,Education,Rural,Graduate,Male,Self-Employed,Y
+LP000276,47900,0,Employed,53,Married,1,586,4,0.335,13800,80800,101000,360,Home Improvement,Urban,Postgraduate,Female,Self-Employed,N
+LP000277,40900,21900,Employed,48,Married,0,590,0,0.262,10600,284400,237000,360,Home Purchase,Urban,Postgraduate,Male,Private Sector,N
+LP000278,25300,17100,Self-Employed,62,Married,2,629,0,0.23,14900,0,121000,360,Home Purchase,Semiurban,Graduate,Male,Government,N
+LP000279,37900,0,Employed,61,Single,3,604,2,0.275,19800,199200,166000,240,Debt Consolidation,Urban,Postgraduate,Female,Private Sector,N
+LP000280,28800,0,Employed,56,Single,0,636,0,0.343,17500,0,66000,240,Education,Urban,Graduate,Female,Private Sector,N
+LP000281,38900,0,Employed,26,Married,1,662,1,0.38,20000,0,138000,120,Home Purchase,Urban,Postgraduate,Male,Self-Employed,N
+LP000282,54000,16900,Business Owner,36,Married,0,746,0,0.405,48600,244800,306000,360,Business,Urban,High School,Female,MNC,Y
+LP000283,94100,36700,Business Owner,54,Married,1,654,1,0.271,18000,0,457000,120,Home Purchase,Semiurban,High School,Male,Private Sector,N
+LP000284,17300,28700,Employed,43,Married,1,553,0,0.348,7300,283500,189000,360,Business,Urban,Postgraduate,Male,Government,N
+LP000285,130600,0,Employed,62,Married,0,771,0,0.416,34800,0,520000,240,Education,Semiurban,Graduate,Male,PSU,Y
+LP000286,11300,0,Employed,44,Married,1,613,1,0.437,4600,0,29000,240,Debt Consolidation,Semiurban,Doctorate,Female,Government,N
+LP000287,33200,18900,Business Owner,33,Married,0,675,2,0.314,6300,206400,172000,360,Home Purchase,Semiurban,Graduate,Male,MNC,Y
+LP000288,51700,19900,Employed,38,Married,1,715,1,0.298,20800,169200,141000,120,Business,Rural,Postgraduate,Male,MNC,Y
+LP000289,43000,13200,Employed,33,Divorced,1,695,3,0.339,23400,0,175000,360,Debt Consolidation,Urban,Graduate,Female,Private Sector,Y
+LP000290,25000,0,Employed,57,Married,0,767,0,0.205,6300,0,55000,120,Home Improvement,Rural,Doctorate,Male,Private Sector,Y
+LP000291,32100,24500,Employed,63,Single,2,718,1,0.301,11800,422000,211000,120,Home Improvement,Semiurban,Postgraduate,Female,MNC,Y
+LP000292,27000,0,Employed,59,Single,2,611,1,0.394,8400,99600,83000,240,Home Purchase,Rural,Postgraduate,Male,Government,N
+LP000293,25500,0,Business Owner,62,Married,0,850,3,0.384,12800,56000,70000,120,Business,Semiurban,Graduate,Female,Government,Y
+LP000294,60500,14400,Employed,37,Single,0,695,0,0.293,32900,207600,173000,360,Home Purchase,Semiurban,Postgraduate,Female,MNC,Y
+LP000295,45000,18000,Employed,35,Married,2,668,1,0.342,26200,226400,283000,240,Education,Rural,Postgraduate,Male,MNC,N
+LP000296,24000,24400,Business Owner,38,Married,3,757,2,0.238,16600,66400,83000,120,Home Purchase,Rural,Postgraduate,Male,Private Sector,Y
+LP000297,62300,0,Business Owner,43,Married,0,699,0,0.39,10100,122400,102000,120,Home Improvement,Urban,Graduate,Female,Private Sector,Y
+LP000298,43700,0,Employed,50,Divorced,0,711,2,0.312,5400,141000,94000,360,Home Purchase,Urban,Graduate,Female,Private Sector,Y
+LP000299,59100,13700,Employed,54,Married,0,850,0,0.292,59000,0,321000,360,Home Purchase,Semiurban,Graduate,Male,Government,Y
+LP000300,53000,9800,Employed,24,Married,1,657,2,0.284,23500,418500,279000,240,Home Purchase,Rural,Graduate,Female,Private Sector,Y
+LP000301,22100,0,Contract,23,Divorced,0,654,3,0.314,8300,0,77000,240,Home Improvement,Urban,Graduate,Male,Government,N
+LP000302,25900,0,Employed,27,Married,0,689,1,0.275,27300,0,107000,360,Debt Consolidation,Semiurban,Graduate,Female,Private Sector,Y
+LP000303,56900,0,Contract,38,Single,2,765,1,0.386,16100,0,122000,360,Education,Semiurban,Graduate,Female,Government,Y
+LP000304,52400,37300,Self-Employed,62,Single,1,559,0,0.28,9900,0,396000,180,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000305,35900,0,Employed,27,Single,0,522,3,0.479,16500,138000,69000,360,Home Improvement,Semiurban,Graduate,Female,Government,N
+LP000306,39000,0,Employed,60,Divorced,1,633,1,0.467,7800,84000,70000,360,Business,Semiurban,High School,Female,Private Sector,N
+LP000307,78200,0,Employed,26,Divorced,1,549,0,0.231,9300,0,144000,360,Home Purchase,Rural,Graduate,Male,Private Sector,N
+LP000308,25500,0,Employed,42,Married,0,646,1,0.327,15900,164000,82000,360,Debt Consolidation,Semiurban,Graduate,Female,Self-Employed,N
+LP000309,50400,0,Employed,21,Single,0,720,1,0.255,10800,291000,194000,360,Debt Consolidation,Semiurban,Graduate,Female,Private Sector,Y
+LP000310,32200,17400,Self-Employed,24,Married,2,608,0,0.287,23100,193500,129000,180,Home Purchase,Urban,Postgraduate,Female,MNC,N
+LP000311,31900,0,Contract,63,Married,0,565,0,0.52,56100,282000,141000,360,Home Purchase,Semiurban,High School,Male,Self-Employed,N
+LP000312,70200,10600,Employed,49,Married,2,685,0,0.289,8300,0,227000,240,Home Improvement,Urban,Graduate,Male,Government,Y
+LP000313,59600,0,Self-Employed,41,Single,3,749,1,0.356,4400,174000,116000,360,Home Purchase,Urban,Graduate,Female,Self-Employed,Y
+LP000314,59200,27100,Employed,46,Divorced,0,544,1,0.374,2400,300000,250000,120,Home Improvement,Semiurban,Doctorate,Female,Private Sector,N
+LP000315,79500,21800,Employed,34,Single,0,745,1,0.22,14700,537000,358000,240,Education,Semiurban,Graduate,Male,Government,Y
+LP000316,36800,11500,Employed,29,Married,1,745,2,0.234,9800,289500,193000,360,Debt Consolidation,Semiurban,Graduate,Male,Government,Y
+LP000317,54700,11700,Self-Employed,32,Married,2,756,2,0.199,19900,152800,191000,360,Home Improvement,Urban,Graduate,Female,Private Sector,Y
+LP000318,30100,0,Contract,62,Married,3,777,1,0.231,19200,148500,99000,120,Home Purchase,Semiurban,Graduate,Male,Private Sector,Y
+LP000319,44100,0,Self-Employed,26,Single,2,850,0,0.05,5200,81600,102000,240,Business,Semiurban,Doctorate,Male,Private Sector,Y
+LP000320,33600,41000,Employed,40,Single,0,651,1,0.374,3400,204800,256000,120,Home Purchase,Semiurban,Graduate,Male,MNC,N
+LP000321,38500,11500,Employed,44,Married,2,688,1,0.525,19400,0,223000,360,Home Improvement,Urban,High School,Female,Self-Employed,Y
+LP000322,51900,24800,Employed,47,Married,1,646,1,0.335,16000,252000,126000,360,Personal,Semiurban,Doctorate,Female,Private Sector,N
+LP000323,22200,15300,Employed,58,Married,1,680,1,0.178,10800,124800,156000,120,Debt Consolidation,Rural,Postgraduate,Male,Private Sector,Y
+LP000324,127400,24400,Business Owner,28,Married,0,802,1,0.256,4700,580800,484000,360,Home Improvement,Urban,Graduate,Female,Private Sector,Y
+LP000325,19900,13700,Business Owner,21,Single,0,572,3,0.274,18600,60800,76000,360,Debt Consolidation,Urban,Graduate,Female,Government,N
+LP000326,17500,0,Self-Employed,44,Married,2,611,0,0.218,37600,152000,76000,240,Home Purchase,Semiurban,Graduate,Male,MNC,N
+LP000327,72800,18400,Employed,27,Married,1,790,1,0.406,22000,215200,269000,360,Business,Semiurban,Graduate,Male,Private Sector,Y
+LP000328,58400,10900,Employed,39,Married,0,761,0,0.401,8600,259500,173000,240,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000329,52800,0,Employed,42,Married,0,650,3,0.204,15000,162000,108000,360,Home Improvement,Semiurban,Graduate,Male,MNC,N
+LP000330,52900,14000,Employed,55,Divorced,2,748,0,0.393,5600,178800,149000,240,Home Purchase,Urban,High School,Female,Self-Employed,Y
+LP000331,36000,0,Employed,50,Married,2,707,0,0.473,36700,115200,144000,240,Business,Urban,Graduate,Male,Government,N
+LP000332,21200,11000,Self-Employed,49,Married,0,800,0,0.51,19000,129600,108000,240,Home Purchase,Urban,Postgraduate,Male,Government,Y
+LP000333,38000,0,Self-Employed,42,Married,0,685,1,0.607,3700,322000,161000,180,Debt Consolidation,Urban,High School,Female,Private Sector,Y
+LP000334,24200,16400,Employed,31,Single,0,762,0,0.23,13300,133500,89000,360,Debt Consolidation,Semiurban,Graduate,Male,Private Sector,Y
+LP000335,65200,60300,Employed,40,Single,3,850,1,0.602,27400,0,234000,240,Debt Consolidation,Urban,Graduate,Female,Private Sector,Y
+LP000336,33200,0,Employed,49,Single,1,727,1,0.285,12400,75000,50000,240,Home Purchase,Rural,Graduate,Male,Private Sector,Y
+LP000337,22100,17900,Employed,61,Married,1,683,0,0.261,12200,96800,121000,360,Debt Consolidation,Rural,Graduate,Male,Self-Employed,Y
+LP000338,29900,15800,Business Owner,62,Married,1,737,0,0.353,6200,246000,205000,240,Home Purchase,Rural,Graduate,Male,Government,Y
+LP000339,46500,18200,Employed,54,Married,0,650,2,0.262,22800,348000,232000,240,Debt Consolidation,Rural,Graduate,Male,Private Sector,N
+LP000340,25900,0,Employed,21,Single,2,850,1,0.36,11300,0,63000,360,Home Purchase,Semiurban,Graduate,Male,Private Sector,Y
+LP000341,22200,0,Employed,51,Married,1,694,2,0.188,2800,138000,92000,360,Debt Consolidation,Rural,Doctorate,Male,Private Sector,Y
+LP000342,42000,0,Business Owner,50,Married,0,658,1,0.296,10900,193200,161000,180,Home Purchase,Urban,Graduate,Male,Government,N
+LP000343,42100,25800,Employed,38,Single,0,613,0,0.449,29900,157500,105000,240,Personal,Urban,Graduate,Female,Private Sector,N
+LP000344,26800,25800,Employed,37,Single,1,767,0,0.314,12500,0,208000,360,Debt Consolidation,Rural,Graduate,Male,Private Sector,Y
+LP000345,27400,22500,Employed,58,Married,3,749,0,0.334,67000,144000,120000,240,Home Purchase,Urban,Graduate,Female,Government,Y
+LP000346,41700,18200,Self-Employed,34,Married,0,640,2,0.368,20100,175500,117000,240,Debt Consolidation,Rural,Graduate,Male,Private Sector,Y
+LP000347,15200,25200,Contract,43,Married,2,726,4,0.437,21200,0,88000,180,Business,Semiurban,High School,Male,Private Sector,Y
+LP000348,15600,24200,Employed,45,Single,2,559,1,0.154,11200,0,116000,180,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000349,23600,0,Business Owner,35,Single,0,694,0,0.378,14600,130000,65000,360,Home Improvement,Urban,Graduate,Male,Private Sector,Y
+LP000350,32000,13500,Contract,42,Married,0,716,0,0.293,12900,86400,108000,360,Debt Consolidation,Semiurban,Graduate,Male,Private Sector,Y
+LP000351,43800,0,Business Owner,23,Married,0,816,0,0.337,14300,176000,88000,360,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000352,88000,39100,Self-Employed,39,Single,2,618,1,0.426,21000,0,481000,360,Business,Rural,Graduate,Female,MNC,N
+LP000353,60800,9700,Self-Employed,64,Single,0,577,0,0.201,6100,252000,315000,180,Home Purchase,Urban,Postgraduate,Female,MNC,N
+LP000354,33000,8700,Employed,54,Married,0,608,3,0.219,5700,240000,160000,120,Home Purchase,Semiurban,Graduate,Male,Government,N
+LP000355,35900,0,Self-Employed,55,Married,1,573,1,0.126,5200,103200,86000,360,Business,Urban,Graduate,Male,Self-Employed,Y
+LP000356,19900,0,Employed,21,Married,2,786,3,0.265,89900,52800,44000,240,Home Improvement,Urban,Postgraduate,Female,Private Sector,Y
+LP000357,35900,0,Self-Employed,41,Married,0,803,2,0.453,27300,92400,77000,240,Education,Semiurban,Graduate,Male,Self-Employed,Y
+LP000358,30500,0,Employed,49,Single,1,705,2,0.308,20000,87000,58000,360,Home Improvement,Urban,Graduate,Male,Private Sector,Y
+LP000359,44100,0,Self-Employed,26,Single,1,777,1,0.186,7400,0,139000,240,Home Improvement,Semiurban,Doctorate,Male,Private Sector,Y
+LP000360,22100,38000,Business Owner,57,Single,1,690,1,0.271,25300,238800,199000,180,Business,Urban,Graduate,Male,Private Sector,Y
+LP000361,49600,8100,Employed,21,Married,2,672,1,0.171,13600,0,209000,360,Home Purchase,Urban,Postgraduate,Male,Private Sector,Y
+LP000362,91100,0,Business Owner,21,Single,0,653,1,0.207,17300,387600,323000,360,Business,Semiurban,Graduate,Female,PSU,Y
+LP000363,34000,0,Employed,47,Married,2,655,1,0.359,6700,64800,81000,120,Home Improvement,Urban,Graduate,Male,Private Sector,N
+LP000364,46200,0,Business Owner,41,Married,2,556,4,0.203,14100,92000,115000,360,Home Purchase,Urban,Graduate,Male,Private Sector,N
+LP000365,54900,16500,Employed,36,Married,1,701,2,0.431,11100,303600,253000,240,Debt Consolidation,Rural,Graduate,Female,Private Sector,Y
+LP000366,28500,41400,Employed,64,Married,2,676,2,0.313,8200,0,178000,240,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000367,41500,18200,Business Owner,60,Single,1,739,2,0.329,29600,0,128000,360,Home Improvement,Urban,Graduate,Male,Private Sector,Y
+LP000368,36600,20200,Employed,46,Married,0,687,0,0.292,4500,178800,149000,360,Debt Consolidation,Urban,High School,Male,Private Sector,Y
+LP000369,38500,9600,Business Owner,36,Married,2,666,0,0.397,23300,133200,111000,180,Personal,Semiurban,Postgraduate,Female,Private Sector,N
+LP000370,22800,13300,Employed,48,Married,1,610,1,0.398,23500,96000,64000,180,Home Purchase,Semiurban,Graduate,Male,Self-Employed,N
+LP000371,36900,0,Employed,21,Married,1,685,1,0.354,7500,176400,147000,120,Home Improvement,Urban,Postgraduate,Male,Private Sector,Y
+LP000372,49000,15400,Employed,56,Married,0,739,2,0.376,8500,0,261000,240,Home Purchase,Rural,High School,Female,Private Sector,Y
+LP000373,86700,0,Employed,30,Married,3,588,1,0.299,11000,224400,187000,120,Home Improvement,Urban,Postgraduate,Female,Government,N
+LP000374,64600,23800,Employed,63,Single,1,686,1,0.374,19100,0,150000,240,Home Improvement,Semiurban,Graduate,Female,PSU,N
+LP000375,132200,0,Employed,37,Married,0,698,1,0.286,13800,736500,491000,120,Home Improvement,Urban,High School,Male,Private Sector,Y
+LP000376,22900,20400,Employed,43,Married,1,622,0,0.32,19600,184000,92000,240,Business,Semiurban,Graduate,Male,Private Sector,N
+LP000377,61300,23100,Employed,27,Married,2,632,1,0.293,57700,271200,226000,120,Business,Rural,Graduate,Male,PSU,N
+LP000378,40500,31900,Contract,64,Single,2,698,2,0.274,10400,147600,123000,360,Home Purchase,Semiurban,Graduate,Male,Private Sector,Y
+LP000379,135100,39700,Contract,27,Married,1,589,0,0.251,3300,0,381000,180,Home Purchase,Rural,High School,Female,Government,N
+LP000380,22400,0,Employed,64,Married,2,707,1,0.367,30500,104400,87000,240,Home Improvement,Urban,High School,Male,Private Sector,Y
+LP000381,21900,0,Self-Employed,35,Married,0,608,1,0.451,52000,129000,86000,360,Debt Consolidation,Urban,High School,Female,Self-Employed,N
+LP000382,25300,0,Employed,54,Married,1,765,0,0.437,23300,0,54000,360,Home Purchase,Urban,Graduate,Male,PSU,Y
+LP000383,10200,0,Self-Employed,24,Married,2,850,0,0.194,7900,20800,26000,180,Debt Consolidation,Urban,High School,Male,MNC,Y
+LP000384,26500,22800,Business Owner,34,Single,2,611,4,0.449,12300,112800,94000,120,Debt Consolidation,Urban,Graduate,Female,Private Sector,N
+LP000385,23000,0,Contract,34,Married,2,722,1,0.288,6600,48000,40000,360,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000386,39700,17400,Employed,36,Married,2,621,0,0.38,23100,204800,256000,240,Business,Semiurban,Graduate,Female,Private Sector,N
+LP000387,44600,15400,Self-Employed,27,Single,0,763,0,0.229,5800,416000,208000,360,Debt Consolidation,Urban,Graduate,Female,Self-Employed,Y
+LP000388,111900,19500,Employed,52,Single,2,578,1,0.334,10100,0,411000,240,Home Purchase,Urban,Postgraduate,Male,Self-Employed,N
+LP000389,64200,0,Unemployed,39,Married,0,718,1,0.351,7200,195200,244000,240,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000390,25700,51300,Employed,22,Married,0,610,1,0.172,15000,372000,310000,240,Business,Rural,High School,Male,MNC,N
+LP000391,21200,8100,Self-Employed,30,Married,0,663,0,0.381,11000,0,115000,360,Personal,Urban,Graduate,Female,Private Sector,N
+LP000392,48800,19800,Self-Employed,37,Married,1,597,2,0.455,15300,127200,106000,360,Home Improvement,Semiurban,Graduate,Male,Private Sector,N
+LP000393,16400,49600,Self-Employed,57,Single,0,745,1,0.303,16900,0,136000,120,Home Purchase,Semiurban,High School,Female,Government,Y
+LP000394,109000,18100,Employed,32,Single,0,613,0,0.456,6200,0,440000,240,Education,Semiurban,Graduate,Male,Private Sector,N
+LP000395,73700,0,Contract,26,Divorced,0,724,1,0.301,26600,0,194000,120,Home Improvement,Urban,Postgraduate,Female,Private Sector,Y
+LP000396,27400,15100,Employed,42,Married,0,652,1,0.405,14000,378000,189000,240,Business,Urban,Postgraduate,Female,Private Sector,N
+LP000397,13000,0,Self-Employed,52,Married,1,670,2,0.098,6800,54000,45000,360,Business,Semiurban,Graduate,Male,MNC,Y
+LP000398,81800,0,Employed,61,Married,1,691,3,0.562,92400,535500,357000,240,Home Purchase,Urban,Postgraduate,Male,Self-Employed,Y
+LP000399,33900,0,Employed,40,Single,0,619,0,0.47,20200,56800,71000,360,Debt Consolidation,Urban,Graduate,Male,PSU,N
+LP000400,76300,0,Employed,21,Married,2,696,2,0.292,13700,374400,312000,360,Home Purchase,Urban,High School,Male,MNC,Y
+LP000401,14000,0,Employed,26,Married,2,802,2,0.123,55400,40800,34000,360,Home Purchase,Rural,Graduate,Male,Government,Y
+LP000402,25300,0,Employed,39,Single,2,617,3,0.349,60000,226000,113000,360,Business,Semiurban,Graduate,Male,Private Sector,N
+LP000403,36400,14600,Employed,38,Single,0,773,0,0.176,15300,121200,101000,180,Education,Semiurban,Graduate,Female,PSU,Y
+LP000404,37400,24200,Employed,26,Single,2,799,1,0.364,23500,225600,188000,180,Home Improvement,Semiurban,Graduate,Female,Government,Y
+LP000405,27700,8100,Self-Employed,53,Married,0,614,0,0.361,6200,0,139000,240,Debt Consolidation,Rural,Postgraduate,Female,MNC,N
+LP000406,52800,0,Business Owner,43,Single,0,563,2,0.226,11100,177600,148000,180,Home Purchase,Semiurban,High School,Male,MNC,N
+LP000407,19100,0,Employed,43,Single,0,704,0,0.432,13400,66000,55000,240,Home Purchase,Semiurban,Postgraduate,Female,Self-Employed,Y
+LP000408,33300,9100,Employed,46,Married,2,636,1,0.401,16400,378000,189000,240,Home Purchase,Rural,Graduate,Male,Private Sector,N
+LP000409,39000,0,Employed,33,Married,0,829,0,0.418,24100,86400,108000,360,Debt Consolidation,Semiurban,High School,Male,Private Sector,Y
+LP000410,49400,0,Employed,27,Married,0,682,0,0.321,23800,131200,164000,240,Home Improvement,Urban,Graduate,Male,MNC,Y
+LP000411,55700,22300,Self-Employed,35,Divorced,0,615,1,0.178,16600,156000,130000,360,Home Purchase,Urban,Postgraduate,Male,Self-Employed,N
+LP000412,18500,0,Self-Employed,64,Married,2,588,2,0.418,5000,0,74000,360,Personal,Rural,Postgraduate,Male,MNC,N
+LP000413,14500,13100,Employed,47,Married,1,767,1,0.293,8100,0,95000,360,Home Purchase,Rural,Graduate,Male,Private Sector,Y
+LP000414,78200,23000,Employed,46,Married,0,634,2,0.181,9100,411000,274000,180,Business,Semiurban,High School,Female,Private Sector,N
+LP000415,44300,0,Employed,53,Single,1,683,0,0.455,12100,82800,69000,240,Debt Consolidation,Semiurban,Graduate,Male,MNC,N
+LP000416,23200,0,Business Owner,35,Married,1,756,1,0.53,39000,114000,76000,240,Home Purchase,Semiurban,Postgraduate,Female,MNC,Y
+LP000417,92100,25800,Contract,56,Married,2,641,1,0.316,5600,271500,181000,240,Business,Semiurban,Postgraduate,Male,Government,N
+LP000418,38900,9400,Employed,47,Married,0,676,0,0.536,11300,58400,73000,240,Home Improvement,Semiurban,High School,Male,Private Sector,N
+LP000419,73700,0,Employed,25,Single,2,678,1,0.329,32400,296400,247000,360,Debt Consolidation,Urban,High School,Male,Self-Employed,Y
+LP000420,37800,22800,Business Owner,22,Married,0,734,1,0.282,12900,0,125000,240,Debt Consolidation,Rural,Graduate,Female,Government,Y
+LP000421,125000,0,Contract,53,Married,2,727,1,0.257,23400,518000,259000,240,Home Purchase,Semiurban,Postgraduate,Male,MNC,Y
+LP000422,104100,21500,Employed,36,Single,0,662,2,0.484,13200,522000,435000,360,Home Improvement,Semiurban,Graduate,Male,Private Sector,N
+LP000423,31300,15400,Employed,43,Married,0,685,1,0.242,18700,62400,78000,120,Education,Urban,Graduate,Male,Private Sector,Y
+LP000424,65100,0,Employed,58,Single,0,650,0,0.394,12100,127200,159000,240,Home Purchase,Urban,High School,Male,Self-Employed,N
+LP000425,53500,0,Employed,36,Married,1,561,0,0.264,21300,124800,104000,360,Home Purchase,Semiurban,High School,Female,Private Sector,Y
+LP000426,82600,0,Employed,34,Married,0,700,1,0.274,4500,214400,268000,180,Education,Semiurban,High School,Male,Government,Y
+LP000427,20400,0,Employed,49,Married,2,831,0,0.423,13800,56800,71000,360,Home Purchase,Semiurban,Graduate,Male,Government,Y
+LP000428,54800,0,Employed,46,Married,0,609,0,0.282,17200,301500,201000,180,Home Improvement,Urban,High School,Female,MNC,N
+LP000429,68500,14300,Employed,55,Single,2,618,1,0.28,21100,282000,188000,360,Debt Consolidation,Semiurban,High School,Male,Private Sector,N
+LP000430,12600,0,Self-Employed,35,Married,2,610,1,0.433,44800,17600,22000,240,Debt Consolidation,Rural,Graduate,Female,Private Sector,N
+LP000431,17900,14500,Employed,23,Single,1,737,0,0.48,12000,67200,56000,240,Debt Consolidation,Urban,Graduate,Female,Self-Employed,Y
+LP000432,10700,17400,Employed,43,Married,2,715,2,0.384,52000,117000,78000,240,Home Purchase,Semiurban,Postgraduate,Female,Government,Y
+LP000433,30900,51500,Employed,49,Married,2,667,1,0.255,8800,0,357000,180,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,N
+LP000434,55900,15900,Employed,54,Married,0,606,0,0.269,39100,232500,155000,180,Home Improvement,Semiurban,Doctorate,Female,Private Sector,N
+LP000435,89400,0,Contract,53,Divorced,2,687,2,0.328,29400,0,203000,240,Home Improvement,Semiurban,Graduate,Male,PSU,Y
+LP000436,38000,13000,Employed,61,Married,0,554,1,0.352,5900,110400,92000,240,Home Improvement,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000437,96500,26200,Employed,61,Married,1,691,1,0.221,19700,488400,407000,240,Home Improvement,Rural,Postgraduate,Male,Government,Y
+LP000438,15900,0,Self-Employed,43,Married,2,749,1,0.392,16000,67200,56000,240,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000439,13100,0,Employed,27,Married,0,579,0,0.329,21300,67500,45000,240,Home Purchase,Semiurban,High School,Female,Self-Employed,N
+LP000440,35100,34900,Business Owner,23,Married,0,557,1,0.148,10400,0,286000,360,Business,Urban,Graduate,Male,MNC,N
+LP000441,45700,0,Employed,52,Single,1,806,1,0.227,14000,108000,135000,240,Debt Consolidation,Urban,Graduate,Female,Government,Y
+LP000442,35600,0,Employed,51,Married,2,631,3,0.27,42000,81600,68000,180,Home Purchase,Urban,Graduate,Female,Private Sector,Y
+LP000443,10500,0,Employed,38,Single,3,770,2,0.313,15800,37500,25000,360,Home Purchase,Urban,Graduate,Male,Self-Employed,Y
+LP000444,34400,0,Employed,63,Married,1,667,1,0.509,28800,0,120000,360,Home Purchase,Rural,Postgraduate,Male,Private Sector,N
+LP000445,16600,12800,Business Owner,27,Single,2,667,0,0.344,12400,147000,98000,180,Home Purchase,Rural,High School,Male,Self-Employed,N
+LP000446,54300,26800,Business Owner,61,Single,3,715,0,0.236,60400,200800,251000,240,Business,Urban,Graduate,Female,Government,Y
+LP000447,45300,6700,Employed,21,Married,0,609,0,0.342,7900,0,185000,240,Education,Semiurban,Graduate,Male,MNC,N
+LP000448,20700,0,Employed,34,Divorced,0,690,1,0.285,9400,106500,71000,240,Education,Semiurban,Graduate,Female,Private Sector,Y
+LP000449,26700,0,Business Owner,52,Married,2,649,0,0.352,48900,0,111000,360,Education,Rural,Postgraduate,Female,MNC,N
+LP000450,19200,26000,Contract,26,Divorced,2,574,1,0.378,9000,176400,147000,120,Education,Semiurban,High School,Female,Private Sector,N
+LP000451,35000,0,Employed,59,Single,2,706,0,0.441,56600,0,134000,360,Debt Consolidation,Urban,Postgraduate,Female,Private Sector,Y
+LP000452,64400,0,Employed,30,Married,1,658,3,0.318,29900,116000,145000,120,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,N
+LP000453,20100,14700,Employed,27,Married,0,667,0,0.484,13100,147600,123000,240,Business,Semiurban,Postgraduate,Male,Private Sector,N
+LP000454,49100,0,Business Owner,46,Married,1,583,3,0.411,3000,248400,207000,360,Home Purchase,Semiurban,Graduate,Male,Private Sector,N
+LP000455,26400,19000,Employed,54,Married,0,807,3,0.249,17700,145200,121000,240,Home Purchase,Rural,Postgraduate,Male,Private Sector,Y
+LP000456,22600,0,Employed,50,Married,0,750,1,0.541,18100,104400,87000,180,Home Purchase,Rural,Postgraduate,Female,Self-Employed,Y
+LP000457,34100,0,Self-Employed,56,Married,2,757,2,0.353,42900,0,125000,360,Debt Consolidation,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000458,19500,0,Employed,41,Married,0,655,1,0.236,52000,39600,33000,360,Home Purchase,Semiurban,High School,Female,MNC,Y
+LP000459,26100,40500,Employed,37,Single,2,541,1,0.485,7000,432000,216000,360,Home Purchase,Rural,Postgraduate,Female,Private Sector,N
+LP000460,17700,19000,Employed,53,Married,1,836,0,0.528,35300,103500,69000,240,Debt Consolidation,Urban,Postgraduate,Male,Government,Y
+LP000461,118000,11500,Employed,30,Married,1,675,0,0.317,27700,0,570000,180,Education,Urban,High School,Male,Government,Y
+LP000462,37100,9300,Employed,62,Married,0,620,1,0.27,32600,0,183000,360,Debt Consolidation,Urban,Doctorate,Male,PSU,N
+LP000463,23900,0,Employed,32,Married,0,713,1,0.303,23700,88000,44000,240,Education,Rural,Postgraduate,Male,Self-Employed,Y
+LP000464,41300,28600,Employed,36,Married,0,773,1,0.391,3600,156000,130000,360,Home Purchase,Semiurban,Graduate,Female,Government,Y
+LP000465,33900,16900,Employed,61,Married,3,678,0,0.448,13300,200400,167000,240,Home Purchase,Urban,Graduate,Male,MNC,Y
+LP000466,31800,38400,Business Owner,52,Single,2,782,1,0.377,6900,267000,178000,240,Debt Consolidation,Rural,Postgraduate,Female,Private Sector,Y
+LP000467,52500,0,Self-Employed,35,Single,1,766,0,0.33,14500,67200,84000,360,Debt Consolidation,Semiurban,Graduate,Female,Government,Y
+LP000468,57200,17900,Employed,47,Married,0,593,0,0.47,28900,282000,235000,240,Home Improvement,Rural,Graduate,Male,Private Sector,N
+LP000469,26400,0,Employed,48,Single,3,626,0,0.289,17800,140000,70000,180,Business,Urban,Graduate,Male,Private Sector,Y
+LP000470,25700,0,Employed,37,Married,0,756,0,0.423,42200,55200,46000,180,Business,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000471,30800,28100,Employed,22,Single,0,462,0,0.291,13500,0,230000,240,Education,Semiurban,Graduate,Male,MNC,N
+LP000472,9100,14600,Employed,56,Single,1,668,2,0.363,5300,0,101000,120,Home Purchase,Semiurban,Graduate,Female,Government,N
+LP000473,14600,0,Self-Employed,27,Married,3,565,0,0.309,1700,0,55000,240,Home Purchase,Semiurban,Graduate,Male,MNC,N
+LP000474,82500,0,Employed,33,Married,0,641,1,0.314,16100,490500,327000,240,Debt Consolidation,Rural,Postgraduate,Female,Government,Y
+LP000475,97400,22400,Employed,35,Married,0,656,0,0.282,12300,206400,258000,360,Home Purchase,Urban,Graduate,Female,Private Sector,N
+LP000476,31300,22100,Employed,45,Married,3,651,2,0.454,6600,0,122000,240,Home Purchase,Rural,Graduate,Male,MNC,N
+LP000477,51300,33500,Self-Employed,43,Single,0,635,1,0.247,3600,360000,180000,360,Home Purchase,Urban,Postgraduate,Female,Self-Employed,Y
+LP000478,43800,10600,Employed,42,Married,0,592,0,0.246,7300,0,206000,180,Home Purchase,Urban,Postgraduate,Female,Self-Employed,N
+LP000479,230300,25300,Self-Employed,46,Single,1,850,1,0.532,16200,0,1110000,240,Home Purchase,Urban,Graduate,Female,Government,Y
+LP000480,71100,0,Employed,53,Divorced,2,829,1,0.418,31400,0,260000,120,Home Purchase,Urban,Postgraduate,Male,MNC,Y
+LP000481,33600,7400,Business Owner,31,Married,1,587,1,0.081,15200,0,170000,360,Home Improvement,Urban,Graduate,Male,MNC,N
+LP000482,20500,0,Business Owner,30,Single,3,806,0,0.263,65000,84000,70000,360,Home Improvement,Rural,Postgraduate,Male,Private Sector,Y
+LP000483,13900,0,Employed,45,Single,2,648,4,0.139,6300,74000,37000,360,Home Improvement,Semiurban,Graduate,Male,Private Sector,N
+LP000484,41000,17300,Employed,57,Divorced,0,690,1,0.225,31100,243000,162000,240,Home Improvement,Semiurban,Graduate,Female,Private Sector,Y
+LP000485,23100,0,Employed,63,Divorced,3,674,0,0.05,15600,48000,40000,240,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000486,15500,14100,Employed,58,Single,1,627,2,0.306,24300,56400,47000,360,Home Purchase,Urban,Postgraduate,Female,Government,Y
+LP000487,24600,12900,Self-Employed,61,Married,0,758,1,0.206,11900,160800,134000,360,Home Purchase,Urban,Graduate,Male,PSU,Y
+LP000488,19000,18300,Business Owner,44,Single,1,690,2,0.326,36200,0,105000,360,Business,Semiurban,Graduate,Male,Private Sector,Y
+LP000489,99900,10500,Self-Employed,60,Married,0,641,1,0.157,18100,0,348000,240,Home Improvement,Semiurban,High School,Female,MNC,N
+LP000490,61600,10500,Business Owner,53,Single,0,575,2,0.328,7400,458000,229000,360,Home Purchase,Semiurban,Postgraduate,Male,MNC,N
+LP000491,36100,25300,Employed,37,Single,0,608,0,0.279,13400,0,143000,180,Home Purchase,Semiurban,Graduate,Male,Private Sector,N
+LP000492,88300,10200,Employed,44,Married,1,548,2,0.47,10100,0,288000,180,Personal,Semiurban,Postgraduate,Male,Private Sector,N
+LP000493,38000,0,Self-Employed,57,Married,2,680,2,0.461,22400,133200,111000,120,Debt Consolidation,Semiurban,Graduate,Male,Government,N
+LP000494,21700,22700,Employed,22,Married,1,584,0,0.399,5100,141600,118000,180,Business,Rural,Graduate,Female,MNC,N
+LP000495,90600,0,Self-Employed,52,Married,3,658,0,0.287,14300,0,359000,360,Home Purchase,Urban,Graduate,Male,PSU,N
+LP000496,50200,12900,Employed,44,Married,0,789,0,0.519,24100,0,180000,360,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000497,19500,32800,Employed,29,Single,0,775,3,0.165,17700,138400,173000,360,Business,Semiurban,Graduate,Female,Self-Employed,Y
+LP000498,32400,11000,Unemployed,24,Divorced,0,677,0,0.18,44300,218400,182000,360,Home Improvement,Rural,Graduate,Male,Private Sector,Y
+LP000499,21500,0,Employed,37,Divorced,0,673,1,0.312,27800,0,88000,240,Home Improvement,Urban,Graduate,Female,MNC,Y
+LP000500,15800,0,Unemployed,37,Married,0,830,0,0.545,18400,79200,66000,360,Debt Consolidation,Semiurban,Graduate,Male,Government,Y
+LP000501,63300,26700,Contract,50,Single,2,721,1,0.3,19100,249600,208000,240,Debt Consolidation,Urban,Graduate,Female,Private Sector,Y
+LP000502,114200,0,Self-Employed,60,Single,3,653,1,0.302,18400,274500,183000,360,Home Improvement,Semiurban,Graduate,Male,Private Sector,Y
+LP000503,15700,0,Self-Employed,31,Married,3,565,3,0.176,17400,28800,36000,360,Home Purchase,Urban,Postgraduate,Female,Private Sector,N
+LP000504,50900,0,Employed,41,Married,0,711,1,0.415,3700,0,119000,360,Home Purchase,Urban,Graduate,Male,Private Sector,N
+LP000505,24600,43000,Business Owner,41,Married,2,746,2,0.415,13100,343200,286000,240,Education,Semiurban,Postgraduate,Female,MNC,Y
+LP000506,27100,29400,Employed,38,Single,0,629,1,0.399,4300,234000,195000,360,Home Purchase,Urban,Graduate,Female,Private Sector,N
+LP000507,25500,0,Employed,49,Married,0,703,0,0.257,43500,0,45000,180,Debt Consolidation,Urban,Graduate,Male,Government,Y
+LP000508,21600,0,Self-Employed,44,Single,2,650,0,0.249,13800,49200,41000,240,Home Improvement,Urban,Postgraduate,Female,Private Sector,Y
+LP000509,37400,0,Employed,30,Married,1,665,1,0.191,12700,0,74000,360,Personal,Urban,High School,Male,MNC,N
+LP000510,22100,23400,Employed,37,Single,0,480,3,0.328,21900,0,154000,240,Debt Consolidation,Rural,Graduate,Male,MNC,N
+LP000511,42700,22200,Employed,38,Married,1,662,2,0.212,20700,289200,241000,360,Debt Consolidation,Semiurban,Graduate,Female,MNC,N
+LP000512,35200,0,Employed,62,Married,0,757,0,0.202,6800,115200,144000,240,Business,Rural,Postgraduate,Female,Government,Y
+LP000513,31500,0,Business Owner,40,Married,2,629,0,0.278,13200,204000,136000,240,Business,Semiurban,High School,Male,Private Sector,Y
+LP000514,21100,0,Employed,57,Married,1,684,0,0.271,11600,52800,44000,360,Home Improvement,Rural,Doctorate,Male,MNC,Y
+LP000515,25700,30500,Contract,38,Single,3,619,3,0.266,3400,164400,137000,240,Debt Consolidation,Semiurban,Graduate,Female,Private Sector,N
+LP000516,57100,10900,Self-Employed,37,Married,0,708,2,0.367,9100,181200,151000,240,Home Purchase,Semiurban,Graduate,Female,Private Sector,Y
+LP000517,49000,0,Business Owner,29,Single,0,662,2,0.328,12700,151200,126000,240,Home Improvement,Semiurban,Postgraduate,Male,Private Sector,N
+LP000518,20200,0,Employed,34,Married,1,604,1,0.291,12300,0,86000,180,Education,Semiurban,Postgraduate,Male,MNC,N
+LP000519,38500,0,Self-Employed,49,Married,1,786,1,0.338,5300,186000,124000,360,Education,Semiurban,Postgraduate,Female,MNC,Y
+LP000520,57000,85400,Employed,51,Married,0,754,1,0.221,42200,1058000,529000,180,Home Purchase,Urban,High School,Female,MNC,Y
+LP000521,13300,0,Business Owner,24,Married,2,631,0,0.331,12900,0,40000,360,Debt Consolidation,Urban,Postgraduate,Female,Private Sector,N
+LP000522,50300,16500,Employed,38,Single,2,719,1,0.335,16500,0,106000,360,Debt Consolidation,Semiurban,Graduate,Male,Private Sector,Y
+LP000523,24400,23600,Business Owner,40,Married,3,722,0,0.17,22200,0,81000,180,Personal,Semiurban,Graduate,Female,Self-Employed,Y
+LP000524,51100,0,Unemployed,63,Single,2,731,0,0.42,8700,190800,159000,360,Home Improvement,Urban,Postgraduate,Female,Government,Y
+LP000525,23000,0,Employed,64,Divorced,2,544,2,0.232,17500,100800,84000,360,Debt Consolidation,Urban,Graduate,Male,Private Sector,N
+LP000526,12300,0,Employed,29,Married,1,760,2,0.329,12600,39000,26000,180,Home Purchase,Semiurban,Graduate,Male,Government,Y
+LP000527,13700,20200,Self-Employed,33,Married,2,634,1,0.436,6900,186000,124000,180,Debt Consolidation,Rural,Graduate,Female,Private Sector,N
+LP000528,37400,23100,Employed,35,Single,0,651,1,0.413,22900,285600,238000,240,Home Purchase,Urban,Graduate,Male,Private Sector,N
+LP000529,42400,25200,Business Owner,47,Divorced,0,850,1,0.323,62400,222000,185000,360,Business,Urban,Graduate,Female,Private Sector,Y
+LP000530,21100,22300,Employed,35,Single,0,704,2,0.284,28000,194400,162000,360,Business,Rural,Postgraduate,Female,Private Sector,Y
+LP000531,53300,0,Employed,48,Married,1,649,2,0.415,30200,174000,145000,240,Debt Consolidation,Semiurban,Graduate,Female,Private Sector,N
+LP000532,13400,13200,Contract,57,Single,0,503,2,0.387,7400,112800,94000,360,Debt Consolidation,Urban,Graduate,Female,Self-Employed,N
+LP000533,34900,13600,Self-Employed,39,Married,3,791,2,0.258,4900,220800,184000,360,Education,Rural,Graduate,Male,Government,Y
+LP000534,17600,0,Business Owner,46,Divorced,0,572,0,0.241,42000,94800,79000,360,Home Purchase,Semiurban,Graduate,Male,Government,Y
+LP000535,24600,22500,Employed,46,Divorced,0,599,0,0.113,69000,142800,119000,360,Home Purchase,Semiurban,High School,Female,MNC,Y
+LP000536,37400,26600,Self-Employed,45,Married,1,653,1,0.335,50000,210000,175000,240,Education,Rural,High School,Male,PSU,Y
+LP000537,21700,22700,Employed,46,Married,0,793,0,0.312,13500,106800,89000,360,Business,Rural,Graduate,Male,Private Sector,Y
+LP000538,28800,41700,Self-Employed,46,Married,0,741,2,0.434,6600,178800,149000,360,Business,Urban,Postgraduate,Male,Self-Employed,Y
+LP000539,66400,18000,Self-Employed,48,Married,0,667,0,0.356,6300,362400,302000,360,Home Purchase,Urban,Graduate,Male,Government,N
+LP000540,25700,25200,Employed,38,Single,1,704,0,0.453,4100,259200,216000,240,Home Purchase,Urban,Doctorate,Female,Private Sector,Y
+LP000541,60000,0,Employed,52,Married,1,631,1,0.25,12900,193200,161000,180,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000542,18400,0,Employed,23,Married,2,691,3,0.434,55600,0,38000,240,Home Purchase,Urban,Graduate,Male,Government,Y
+LP000543,49900,25500,Self-Employed,22,Married,2,685,0,0.267,13600,0,178000,240,Business,Urban,Postgraduate,Female,MNC,Y
+LP000544,86200,0,Employed,53,Divorced,1,757,1,0.398,21500,296400,247000,360,Home Purchase,Rural,High School,Female,Private Sector,Y
+LP000545,8200,0,Self-Employed,62,Married,0,757,1,0.174,50700,22800,19000,240,Home Improvement,Rural,Graduate,Female,Government,Y
+LP000546,22500,0,Employed,39,Married,0,719,0,0.344,11600,100000,50000,360,Home Purchase,Semiurban,Postgraduate,Female,MNC,Y
+LP000547,51300,0,Self-Employed,37,Married,2,651,1,0.122,73900,152000,190000,360,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000548,32200,15100,Self-Employed,64,Divorced,0,739,2,0.293,81000,57600,72000,360,Personal,Urban,High School,Female,Self-Employed,Y
+LP000549,45400,28100,Employed,53,Single,0,672,1,0.364,13500,0,229000,180,Home Purchase,Urban,Graduate,Female,Self-Employed,N
+LP000550,25300,0,Employed,32,Married,2,593,2,0.268,8300,0,98000,360,Home Purchase,Urban,High School,Female,Government,N
+LP000551,38300,0,Employed,23,Married,1,647,0,0.215,25200,132000,88000,360,Home Purchase,Semiurban,Graduate,Male,PSU,Y
+LP000552,33100,0,Self-Employed,63,Married,0,686,0,0.405,11600,0,110000,360,Home Purchase,Urban,Graduate,Female,Private Sector,Y
+LP000553,73200,18100,Business Owner,46,Married,0,752,3,0.31,6600,384000,320000,240,Debt Consolidation,Rural,Doctorate,Male,Private Sector,Y
+LP000554,42300,13000,Employed,55,Married,3,665,1,0.271,41300,230400,192000,240,Home Purchase,Semiurban,Doctorate,Male,Private Sector,N
+LP000555,44500,0,Self-Employed,28,Single,2,583,1,0.324,34400,151200,126000,180,Home Improvement,Urban,Postgraduate,Male,Government,Y
+LP000556,28400,22300,Employed,56,Married,2,684,2,0.584,17200,193500,129000,240,Business,Urban,Graduate,Male,Government,N
+LP000557,27100,23100,Employed,27,Single,1,689,0,0.435,5600,241200,201000,180,Debt Consolidation,Semiurban,Graduate,Female,Government,Y
+LP000558,28000,13900,Contract,56,Married,1,694,2,0.436,5800,126400,158000,240,Home Purchase,Rural,Graduate,Female,Private Sector,N
+LP000559,46000,6100,Employed,36,Single,3,753,0,0.364,18300,192000,128000,360,Home Improvement,Semiurban,Graduate,Female,Private Sector,Y
+LP000560,28200,0,Employed,44,Single,3,761,0,0.337,11400,76500,51000,240,Home Purchase,Urban,Postgraduate,Female,Self-Employed,Y
+LP000561,43200,14200,Employed,21,Married,0,632,0,0.08,10700,0,98000,240,Home Improvement,Semiurban,Graduate,Male,Self-Employed,N
+LP000562,126200,11700,Employed,45,Married,2,630,2,0.252,31800,0,246000,360,Home Improvement,Urban,Postgraduate,Female,MNC,N
+LP000563,61200,25500,Employed,30,Married,0,596,0,0.272,23900,0,282000,180,Home Purchase,Rural,Postgraduate,Male,MNC,N
+LP000564,29900,14800,Employed,36,Married,0,735,2,0.133,49300,59200,74000,360,Business,Semiurban,Graduate,Female,Government,Y
+LP000565,74700,30600,Self-Employed,36,Married,2,795,3,0.204,8000,528000,264000,180,Education,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000566,28400,24600,Employed,28,Married,1,654,1,0.122,11100,238800,199000,120,Business,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000567,10700,0,Employed,49,Divorced,3,660,1,0.316,27000,20000,25000,180,Home Purchase,Semiurban,Postgraduate,Female,MNC,N
+LP000568,19800,9100,Employed,59,Married,0,797,1,0.402,25400,165000,110000,360,Debt Consolidation,Urban,Graduate,Female,Government,Y
+LP000569,11800,33100,Employed,48,Single,1,720,0,0.431,54600,201600,168000,240,Education,Urban,Postgraduate,Female,Private Sector,Y
+LP000570,29400,20600,Self-Employed,26,Married,3,714,1,0.361,22300,89600,112000,360,Home Purchase,Urban,Graduate,Female,PSU,N
+LP000571,36700,0,Contract,36,Single,3,584,1,0.224,57000,270000,135000,240,Business,Rural,Graduate,Male,Self-Employed,N
+LP000572,99300,0,Employed,40,Married,0,734,4,0.127,25200,558000,372000,120,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000573,44200,0,Business Owner,36,Single,0,605,3,0.144,31500,178500,119000,360,Home Purchase,Urban,Postgraduate,Female,Government,Y
+LP000574,31800,22100,Employed,27,Married,1,589,2,0.193,10100,138000,115000,180,Business,Rural,Graduate,Male,Self-Employed,Y
+LP000575,59700,10800,Employed,61,Married,0,652,2,0.231,14700,324000,216000,360,Business,Urban,Postgraduate,Male,Private Sector,N
+LP000576,9600,0,Employed,34,Married,3,633,1,0.304,29200,0,41000,180,Business,Urban,High School,Male,Government,N
+LP000577,41800,8400,Employed,63,Married,3,662,1,0.219,53600,206400,172000,240,Education,Urban,Graduate,Female,Government,N
+LP000578,57700,31500,Employed,46,Married,0,564,2,0.354,22500,360000,180000,360,Home Purchase,Semiurban,High School,Male,Private Sector,Y
+LP000579,15000,13200,Self-Employed,46,Married,0,756,1,0.297,15700,80000,100000,360,Home Purchase,Semiurban,Postgraduate,Male,Self-Employed,Y
+LP000580,72100,38800,Employed,34,Married,0,770,3,0.321,51600,462000,308000,240,Education,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000581,44500,13800,Business Owner,27,Single,3,524,1,0.434,2000,229200,191000,360,Home Purchase,Semiurban,Graduate,Male,Private Sector,N
+LP000582,28300,7700,Employed,53,Married,0,758,1,0.202,5400,0,133000,180,Home Improvement,Urban,Graduate,Female,Private Sector,Y
+LP000583,53100,0,Employed,46,Married,1,615,2,0.362,23600,243000,162000,360,Debt Consolidation,Rural,High School,Female,Private Sector,N
+LP000584,141800,33500,Self-Employed,40,Single,1,748,3,0.319,16800,0,691000,360,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000585,40500,16700,Employed,23,Married,1,674,0,0.287,24400,252000,210000,180,Home Purchase,Rural,Graduate,Male,MNC,Y
+LP000586,42100,13700,Employed,24,Married,0,682,2,0.409,16000,0,187000,240,Debt Consolidation,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000587,27600,19500,Self-Employed,46,Married,0,665,1,0.408,23400,184000,92000,180,Business,Semiurban,Graduate,Female,Government,N
+LP000588,21800,23200,Business Owner,31,Divorced,3,776,0,0.225,9000,144000,180000,240,Home Improvement,Semiurban,Postgraduate,Male,MNC,Y
+LP000589,59800,0,Self-Employed,22,Single,3,580,2,0.302,20400,0,258000,180,Home Improvement,Semiurban,Postgraduate,Male,Private Sector,N
+LP000590,21700,37200,Self-Employed,34,Single,2,728,1,0.348,35900,0,113000,360,Debt Consolidation,Urban,High School,Female,Government,Y
+LP000591,37900,0,Self-Employed,64,Married,0,768,1,0.293,45400,224000,112000,360,Home Purchase,Rural,Postgraduate,Male,MNC,Y
+LP000592,27300,0,Contract,50,Single,0,737,0,0.379,82200,74400,62000,120,Home Purchase,Urban,Graduate,Female,Government,Y
+LP000593,48400,14700,Employed,32,Married,1,850,1,0.348,23000,284400,237000,240,Debt Consolidation,Urban,Graduate,Male,Private Sector,Y
+LP000594,44400,20500,Employed,46,Married,0,637,1,0.503,17700,285600,238000,240,Home Purchase,Semiurban,Postgraduate,Female,Government,N
+LP000595,67700,0,Employed,64,Married,3,756,1,0.167,5000,156000,130000,360,Home Purchase,Semiurban,Graduate,Male,PSU,Y
+LP000596,26700,0,Employed,53,Married,1,671,0,0.308,9800,0,110000,240,Debt Consolidation,Urban,Doctorate,Male,Private Sector,Y
+LP000597,30900,21400,Self-Employed,33,Married,0,778,3,0.229,14800,128400,107000,240,Debt Consolidation,Rural,Postgraduate,Male,Private Sector,Y
+LP000598,20200,0,Self-Employed,34,Married,3,679,1,0.38,35000,0,79000,240,Home Purchase,Rural,Graduate,Female,Government,Y
+LP000599,27800,18300,Employed,44,Married,3,648,2,0.158,8800,264000,132000,180,Debt Consolidation,Semiurban,High School,Female,Private Sector,Y
+LP000600,45500,12300,Employed,54,Married,0,784,1,0.355,33000,216000,144000,120,Debt Consolidation,Semiurban,Graduate,Male,Government,Y
+LP000601,57200,16100,Self-Employed,64,Single,1,640,1,0.257,14200,174000,145000,240,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000602,20900,0,Employed,46,Married,0,566,1,0.247,10900,0,42000,120,Education,Urban,Postgraduate,Female,Private Sector,N
+LP000603,61200,0,Self-Employed,41,Single,0,638,1,0.175,17300,319500,213000,240,Home Purchase,Semiurban,High School,Female,Government,N
+LP000604,81900,30300,Employed,48,Married,0,729,1,0.273,11900,0,354000,240,Business,Rural,Graduate,Female,Private Sector,Y
+LP000605,46500,7200,Employed,56,Single,1,791,1,0.428,12500,0,100000,240,Home Purchase,Rural,Graduate,Male,Private Sector,Y
+LP000606,112000,0,Employed,60,Married,3,688,1,0.317,3900,0,206000,180,Education,Rural,Graduate,Female,Private Sector,Y
+LP000607,22800,8500,Employed,22,Married,1,785,0,0.383,14300,64800,54000,360,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000608,17200,0,Business Owner,62,Married,0,571,1,0.486,8700,96000,64000,360,Business,Urban,Graduate,Male,MNC,N
+LP000609,12500,17300,Business Owner,29,Married,1,644,0,0.346,9500,86400,108000,180,Home Purchase,Urban,Graduate,Male,Self-Employed,N
+LP000610,89100,0,Self-Employed,43,Single,0,656,0,0.264,20400,0,149000,240,Home Improvement,Semiurban,Postgraduate,Female,Private Sector,N
+LP000611,53800,11400,Employed,35,Married,2,670,3,0.367,25300,248400,207000,360,Debt Consolidation,Urban,High School,Female,Government,Y
+LP000612,35100,0,Employed,33,Married,1,686,1,0.266,18400,74400,62000,120,Home Purchase,Urban,Graduate,Female,Private Sector,Y
+LP000613,43000,0,Self-Employed,43,Single,0,735,1,0.27,36300,0,181000,240,Business,Semiurban,Graduate,Female,Government,Y
+LP000614,18500,0,Self-Employed,37,Single,0,644,1,0.168,22700,0,78000,180,Home Purchase,Semiurban,High School,Female,Private Sector,N
+LP000615,157500,0,Employed,22,Married,2,691,3,0.413,12200,1132000,566000,360,Education,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000616,39200,19700,Employed,40,Married,0,676,1,0.281,10400,504000,252000,360,Home Purchase,Rural,High School,Male,MNC,Y
+LP000617,38800,13700,Self-Employed,40,Married,2,605,2,0.338,17300,414000,207000,240,Debt Consolidation,Urban,Graduate,Male,Private Sector,N
+LP000618,56100,0,Employed,23,Married,0,670,1,0.216,23600,336000,224000,240,Home Improvement,Urban,Graduate,Male,Private Sector,Y
+LP000619,48500,0,Employed,32,Married,0,668,3,0.364,45500,0,156000,360,Home Purchase,Rural,Graduate,Male,MNC,N
+LP000620,41500,35300,Employed,60,Divorced,1,666,2,0.244,38500,0,186000,360,Home Purchase,Semiurban,Postgraduate,Male,MNC,N
+LP000621,22600,9400,Employed,22,Married,3,682,2,0.306,9800,55200,69000,360,Business,Semiurban,Graduate,Female,Government,Y
+LP000622,48200,27300,Business Owner,56,Married,3,686,0,0.408,14100,149600,187000,180,Business,Urban,Postgraduate,Female,Government,Y
+LP000623,112300,0,Contract,34,Married,0,645,0,0.399,24600,760000,380000,180,Education,Urban,Graduate,Female,Government,N
+LP000624,81400,0,Employed,36,Single,0,781,0,0.318,40900,246000,164000,360,Home Purchase,Semiurban,Graduate,Female,Private Sector,Y
+LP000625,94500,27200,Employed,39,Single,0,586,0,0.143,27700,332400,277000,240,Debt Consolidation,Rural,Postgraduate,Male,Private Sector,Y
+LP000626,26700,0,Employed,54,Married,1,622,2,0.619,13200,0,78000,120,Home Purchase,Rural,Graduate,Female,Government,N
+LP000627,20100,10300,Employed,64,Single,1,850,0,0.495,6900,134000,67000,120,Home Purchase,Semiurban,Postgraduate,Male,Government,Y
+LP000628,33700,0,Employed,26,Married,3,596,0,0.392,6000,165000,110000,360,Business,Semiurban,Graduate,Male,MNC,N
+LP000629,37600,30000,Self-Employed,33,Married,3,571,0,0.245,15800,0,289000,360,Home Purchase,Rural,Graduate,Female,MNC,N
+LP000630,70000,0,Employed,56,Married,0,738,0,0.309,21600,393000,262000,240,Debt Consolidation,Semiurban,Graduate,Male,Private Sector,Y
+LP000631,13200,23800,Employed,42,Married,1,513,0,0.266,4700,103200,129000,360,Debt Consolidation,Semiurban,Graduate,Male,Private Sector,N
+LP000632,90900,21400,Employed,38,Married,2,661,2,0.446,15300,0,365000,240,Home Improvement,Rural,Graduate,Male,Private Sector,N
+LP000633,33000,21900,Employed,32,Single,2,850,1,0.346,31400,195600,163000,360,Education,Rural,Postgraduate,Female,Government,Y
+LP000634,28100,0,Employed,50,Married,0,556,0,0.242,4900,69600,58000,240,Home Improvement,Rural,High School,Female,Government,Y
+LP000635,19800,30400,Employed,60,Divorced,0,521,1,0.273,28100,0,210000,180,Debt Consolidation,Urban,Graduate,Male,Self-Employed,N
+LP000636,13500,32400,Unemployed,27,Married,1,560,1,0.432,9200,82400,103000,240,Business,Semiurban,Graduate,Female,MNC,N
+LP000637,59500,16100,Employed,52,Married,0,751,0,0.48,45700,268000,134000,240,Home Improvement,Rural,Doctorate,Male,Self-Employed,Y
+LP000638,37900,17600,Employed,39,Married,0,769,1,0.473,11200,249600,208000,240,Home Purchase,Urban,Graduate,Male,MNC,Y
+LP000639,16700,8400,Business Owner,26,Married,0,638,2,0.396,6200,61200,51000,180,Home Purchase,Rural,Graduate,Male,PSU,N
+LP000640,16700,23300,Unemployed,40,Married,1,734,2,0.295,11300,0,105000,360,Home Purchase,Urban,Graduate,Female,Government,Y
+LP000641,29700,0,Employed,47,Married,0,791,2,0.05,16300,0,47000,180,Debt Consolidation,Rural,Postgraduate,Male,PSU,Y
+LP000642,98900,17500,Business Owner,63,Married,0,822,0,0.35,13400,177600,222000,180,Business,Semiurban,Graduate,Male,Private Sector,Y
+LP000643,31100,31600,Employed,57,Married,0,660,3,0.32,12400,0,127000,240,Home Purchase,Urban,Postgraduate,Male,Private Sector,N
+LP000644,14700,0,Employed,27,Single,2,495,2,0.334,14400,0,24000,240,Home Purchase,Semiurban,Graduate,Male,Government,N
+LP000645,31300,0,Employed,25,Married,2,614,3,0.325,11900,0,109000,240,Education,Semiurban,Graduate,Female,PSU,N
+LP000646,30800,0,Self-Employed,31,Married,1,645,0,0.187,13600,148800,124000,360,Business,Semiurban,Graduate,Male,Private Sector,N
+LP000647,7200,17800,Self-Employed,35,Married,1,659,3,0.376,3700,52000,65000,240,Home Improvement,Semiurban,Postgraduate,Male,Private Sector,N
+LP000648,35200,16500,Employed,23,Single,3,664,2,0.383,20200,319500,213000,360,Home Purchase,Rural,Postgraduate,Male,Government,N
+LP000649,31600,20200,Employed,25,Single,0,769,2,0.388,15900,0,111000,360,Home Purchase,Semiurban,Graduate,Female,Government,Y
+LP000650,55100,15000,Self-Employed,43,Married,0,781,0,0.415,63100,208800,174000,120,Home Purchase,Semiurban,Graduate,Female,Private Sector,Y
+LP000651,110100,0,Employed,57,Married,0,666,2,0.38,7000,0,215000,240,Home Purchase,Urban,Postgraduate,Male,MNC,N
+LP000652,71400,0,Employed,29,Married,0,767,3,0.279,4000,288000,240000,360,Home Purchase,Rural,Postgraduate,Male,PSU,Y
+LP000653,30900,0,Self-Employed,35,Divorced,0,708,1,0.313,25800,0,85000,120,Debt Consolidation,Urban,Graduate,Male,Self-Employed,Y
+LP000654,18700,0,Self-Employed,23,Single,3,685,1,0.329,20100,124000,62000,240,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000655,170100,0,Self-Employed,49,Married,1,752,3,0.331,7500,966000,644000,360,Home Purchase,Rural,Graduate,Female,Private Sector,Y
+LP000656,37600,0,Business Owner,26,Married,1,685,1,0.42,4500,141600,118000,240,Home Purchase,Urban,Graduate,Female,Private Sector,Y
+LP000657,36600,9500,Employed,37,Married,3,844,1,0.384,64300,0,156000,240,Home Improvement,Semiurban,Graduate,Female,Private Sector,Y
+LP000658,35800,25500,Self-Employed,46,Divorced,0,564,1,0.528,38900,316800,264000,360,Home Improvement,Urban,Postgraduate,Male,Private Sector,N
+LP000659,40900,14000,Self-Employed,41,Married,0,638,3,0.541,1900,198000,132000,180,Debt Consolidation,Semiurban,Graduate,Female,MNC,N
+LP000660,33300,20600,Employed,28,Married,1,669,0,0.328,10300,0,139000,120,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,N
+LP000661,25700,20900,Employed,41,Married,1,715,1,0.05,60300,204000,170000,360,Home Purchase,Rural,Postgraduate,Female,Self-Employed,Y
+LP000662,26200,0,Employed,31,Single,0,781,1,0.444,11900,130500,87000,360,Home Purchase,Rural,Postgraduate,Female,Self-Employed,Y
+LP000663,35600,12200,Employed,58,Single,1,678,2,0.266,10200,145500,97000,240,Home Purchase,Semiurban,Graduate,Female,Private Sector,Y
+LP000664,26200,12800,Self-Employed,28,Single,1,566,1,0.24,10100,154500,103000,240,Education,Semiurban,Graduate,Male,PSU,Y
+LP000665,23700,0,Business Owner,62,Married,2,747,3,0.28,6800,103500,69000,360,Personal,Semiurban,Doctorate,Male,MNC,Y
+LP000666,38700,0,Employed,44,Single,1,740,3,0.275,4200,214000,107000,360,Home Improvement,Urban,Postgraduate,Female,Government,Y
+LP000667,31200,17400,Employed,55,Married,0,524,0,0.381,27100,118800,99000,180,Education,Semiurban,High School,Male,Private Sector,N
+LP000668,89500,0,Contract,34,Married,0,679,1,0.164,3500,458400,382000,120,Home Improvement,Rural,Graduate,Female,Government,Y
+LP000669,7400,25400,Employed,34,Married,1,552,0,0.212,15000,186000,124000,240,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000670,69900,37900,Employed,30,Divorced,0,626,0,0.354,28300,380400,317000,360,Personal,Urban,Postgraduate,Female,Government,N
+LP000671,76700,0,Employed,32,Married,3,607,1,0.382,4200,544000,272000,360,Home Purchase,Urban,Graduate,Male,Private Sector,N
+LP000672,10500,0,Employed,58,Single,1,744,3,0.384,7900,0,44000,360,Home Improvement,Semiurban,Postgraduate,Male,Government,Y
+LP000673,29600,0,Employed,64,Single,0,689,2,0.241,40500,44800,56000,360,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000674,29100,0,Employed,54,Married,2,577,0,0.222,19700,52800,66000,240,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000675,15600,0,Employed,61,Married,1,750,0,0.269,10200,39200,49000,240,Home Improvement,Semiurban,Graduate,Female,Government,Y
+LP000676,22800,26100,Employed,30,Married,0,565,1,0.344,32900,0,191000,360,Debt Consolidation,Semiurban,Graduate,Female,Government,Y
+LP000677,18700,0,Employed,37,Married,2,706,1,0.469,41300,36000,30000,360,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000678,103900,9700,Employed,37,Married,2,614,0,0.115,17000,0,506000,240,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,N
+LP000679,63700,0,Self-Employed,23,Married,2,650,2,0.298,7000,218400,182000,120,Home Purchase,Rural,Graduate,Female,Self-Employed,N
+LP000680,77900,28100,Business Owner,51,Single,0,720,3,0.187,11500,327600,273000,360,Personal,Rural,Graduate,Male,Government,Y
+LP000681,56000,0,Employed,21,Divorced,1,721,1,0.155,20200,106400,133000,240,Business,Semiurban,High School,Female,Private Sector,N
+LP000682,18400,0,Employed,32,Married,2,786,2,0.417,15100,29600,37000,240,Debt Consolidation,Urban,Graduate,Female,Government,Y
+LP000683,26500,25400,Self-Employed,59,Married,0,673,1,0.374,31800,241200,201000,360,Home Purchase,Rural,Graduate,Female,Government,Y
+LP000684,48700,16200,Employed,24,Married,0,704,2,0.365,4600,424500,283000,360,Business,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000685,17400,0,Employed,62,Single,2,644,1,0.412,4300,72000,48000,180,Home Purchase,Urban,High School,Male,Government,N
+LP000686,55700,58800,Self-Employed,33,Single,0,694,0,0.272,17900,748500,499000,360,Home Purchase,Urban,Graduate,Female,MNC,Y
+LP000687,31400,12200,Business Owner,54,Married,2,715,3,0.277,10700,346000,173000,180,Home Purchase,Urban,Graduate,Female,MNC,Y
+LP000688,29000,9000,Business Owner,62,Married,1,672,1,0.539,9100,134400,112000,180,Education,Urban,Postgraduate,Female,Private Sector,Y
+LP000689,55600,0,Employed,41,Single,1,535,2,0.295,2900,392000,196000,240,Home Purchase,Urban,Graduate,Female,Self-Employed,N
+LP000690,47400,0,Self-Employed,42,Married,0,706,1,0.394,16000,199500,133000,360,Home Purchase,Rural,Postgraduate,Female,Private Sector,Y
+LP000691,29200,16100,Employed,24,Married,2,709,0,0.321,15100,216000,144000,360,Debt Consolidation,Semiurban,Doctorate,Male,Self-Employed,Y
+LP000692,72800,37300,Self-Employed,38,Married,0,625,0,0.135,23500,0,184000,360,Home Purchase,Semiurban,High School,Female,Private Sector,N
+LP000693,19000,0,Employed,25,Married,1,577,1,0.116,13600,136000,68000,360,Debt Consolidation,Rural,Graduate,Male,Government,Y
+LP000694,52600,25500,Employed,39,Married,2,798,1,0.262,16000,156000,130000,180,Debt Consolidation,Rural,Graduate,Male,Government,Y
+LP000695,51800,13300,Self-Employed,22,Single,2,719,0,0.426,41000,385500,257000,120,Debt Consolidation,Rural,High School,Male,Private Sector,N
+LP000696,30200,0,Employed,32,Single,3,661,1,0.399,5200,0,120000,240,Home Purchase,Rural,Graduate,Female,MNC,N
+LP000697,44200,48800,Employed,37,Married,1,589,1,0.411,20100,164800,206000,180,Home Purchase,Semiurban,Graduate,Female,Government,N
+LP000698,17100,0,Business Owner,30,Divorced,0,614,2,0.221,3600,33600,42000,360,Business,Rural,Postgraduate,Male,Private Sector,N
+LP000699,63200,13700,Employed,54,Married,3,784,1,0.482,8900,180800,226000,360,Education,Semiurban,Graduate,Male,Government,Y
+LP000700,32500,27700,Employed,26,Single,1,691,3,0.224,5800,0,198000,360,Home Purchase,Urban,Graduate,Female,Government,N
+LP000701,26500,14900,Employed,28,Married,0,635,1,0.341,26400,147000,98000,180,Home Purchase,Semiurban,High School,Female,Private Sector,Y
+LP000702,68100,0,Self-Employed,31,Single,0,720,1,0.319,15200,0,223000,240,Home Purchase,Semiurban,Graduate,Female,PSU,Y
+LP000703,23800,0,Self-Employed,32,Single,2,614,0,0.303,13500,45600,57000,240,Home Improvement,Rural,Graduate,Male,Self-Employed,N
+LP000704,15600,0,Employed,29,Married,0,800,0,0.454,7300,0,26000,180,Home Improvement,Urban,Graduate,Male,Private Sector,Y
+LP000705,14300,0,Self-Employed,22,Divorced,2,788,0,0.249,13800,26400,22000,240,Home Purchase,Semiurban,Postgraduate,Male,Government,Y
+LP000706,52200,0,Employed,28,Single,1,642,1,0.185,7800,75200,94000,240,Home Improvement,Urban,Graduate,Male,Private Sector,N
+LP000707,16800,14100,Self-Employed,31,Single,0,629,0,0.322,19000,96000,120000,240,Home Improvement,Urban,Graduate,Male,MNC,N
+LP000708,104100,0,Employed,56,Married,1,470,0,0.28,4700,547200,456000,240,Education,Urban,Postgraduate,Male,Self-Employed,N
+LP000709,10400,0,Employed,30,Single,0,561,2,0.65,36200,34800,29000,120,Home Purchase,Semiurban,High School,Male,Private Sector,N
+LP000710,100500,27100,Contract,41,Single,1,572,0,0.388,3300,0,388000,240,Home Purchase,Rural,Graduate,Male,MNC,N
+LP000711,41200,0,Employed,40,Married,1,690,0,0.279,8100,0,80000,240,Home Purchase,Urban,Postgraduate,Female,Government,Y
+LP000712,34300,15700,Employed,28,Divorced,1,653,0,0.214,55600,0,158000,120,Business,Semiurban,Graduate,Male,Private Sector,Y
+LP000713,26200,0,Employed,56,Married,2,572,2,0.132,9000,102000,51000,240,Business,Urban,Postgraduate,Male,Self-Employed,N
+LP000714,46100,21400,Contract,49,Married,2,657,0,0.217,5100,180000,225000,180,Debt Consolidation,Urban,Graduate,Female,Government,N
+LP000715,35500,0,Employed,62,Married,2,720,1,0.331,19100,183600,153000,240,Home Purchase,Semiurban,Graduate,Female,Government,Y
+LP000716,70400,0,Employed,32,Married,0,722,1,0.463,11000,0,147000,180,Home Purchase,Urban,Postgraduate,Female,MNC,N
+LP000717,38900,15300,Employed,34,Married,0,528,1,0.432,6000,247200,206000,240,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000718,39700,0,Employed,41,Married,1,669,1,0.343,6200,0,62000,360,Debt Consolidation,Urban,Graduate,Female,Private Sector,N
+LP000719,29200,10500,Employed,42,Divorced,3,569,2,0.288,116000,0,104000,360,Home Purchase,Urban,Graduate,Female,Self-Employed,N
+LP000720,35100,0,Self-Employed,41,Married,2,752,0,0.347,13700,76800,64000,360,Home Purchase,Semiurban,Postgraduate,Female,MNC,Y
+LP000721,43700,0,Unemployed,64,Married,2,742,0,0.268,3500,89600,112000,240,Home Improvement,Semiurban,Graduate,Female,MNC,Y
+LP000722,13000,33600,Employed,50,Married,0,608,0,0.492,44700,0,94000,240,Home Purchase,Urban,Graduate,Male,Private Sector,N
+LP000723,16200,0,Employed,59,Married,1,618,0,0.301,22400,50400,42000,360,Debt Consolidation,Semiurban,Graduate,Male,Government,Y
+LP000724,56700,9300,Employed,40,Divorced,1,643,0,0.311,7800,364000,182000,240,Home Purchase,Rural,Graduate,Female,PSU,Y
+LP000725,40200,22900,Employed,44,Single,0,499,0,0.098,5300,121600,152000,360,Business,Semiurban,Graduate,Male,Private Sector,N
+LP000726,32500,23700,Business Owner,43,Single,0,706,1,0.3,26900,234000,195000,240,Debt Consolidation,Urban,Graduate,Female,Private Sector,Y
+LP000727,36700,23700,Employed,27,Married,3,658,1,0.404,12000,514000,257000,240,Education,Semiurban,Graduate,Male,Government,N
+LP000728,44700,0,Employed,29,Married,0,757,1,0.213,3600,181500,121000,360,Debt Consolidation,Semiurban,Graduate,Male,Private Sector,Y
+LP000729,26300,0,Self-Employed,21,Married,0,592,2,0.245,55100,66000,55000,180,Education,Urban,Postgraduate,Female,Private Sector,N
+LP000730,22800,0,Employed,46,Married,0,630,0,0.399,9900,63600,53000,240,Education,Rural,Postgraduate,Male,Self-Employed,N
+LP000731,40800,18800,Self-Employed,58,Married,3,559,0,0.172,41200,0,242000,180,Debt Consolidation,Rural,High School,Female,PSU,N
+LP000732,20200,5900,Employed,58,Single,1,599,1,0.426,37100,100800,84000,240,Education,Rural,Graduate,Female,Government,N
+LP000733,46400,0,Business Owner,64,Married,2,585,0,0.267,5800,106400,133000,180,Home Purchase,Rural,High School,Female,MNC,N
+LP000734,13100,11800,Contract,42,Single,3,759,0,0.281,38600,0,49000,240,Home Purchase,Semiurban,Graduate,Male,Self-Employed,Y
+LP000735,67300,0,Self-Employed,64,Married,0,624,1,0.208,8300,230400,192000,360,Home Purchase,Semiurban,Doctorate,Female,MNC,Y
+LP000736,48200,80200,Contract,30,Married,1,689,3,0.358,3400,0,300000,360,Debt Consolidation,Semiurban,Graduate,Female,Private Sector,N
+LP000737,42300,21700,Employed,26,Married,0,649,2,0.566,10300,332400,277000,240,Home Improvement,Rural,Graduate,Female,Private Sector,N
+LP000738,65500,15400,Employed,37,Married,0,578,0,0.398,17700,403200,336000,360,Business,Semiurban,Graduate,Female,Private Sector,N
+LP000739,98600,28600,Self-Employed,58,Single,2,666,2,0.234,10200,267600,223000,240,Home Purchase,Urban,Graduate,Female,Private Sector,Y
+LP000740,66700,0,Employed,44,Married,2,727,2,0.434,12700,0,203000,240,Debt Consolidation,Urban,High School,Female,Private Sector,N
+LP000741,12000,0,Employed,30,Married,0,583,1,0.288,32400,0,26000,360,Home Purchase,Rural,Postgraduate,Female,Private Sector,N
+LP000742,16900,0,Employed,28,Divorced,0,744,2,0.457,18000,55200,46000,360,Home Improvement,Urban,Doctorate,Male,Private Sector,Y
+LP000743,25000,0,Employed,41,Married,1,612,1,0.401,6900,206000,103000,360,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,N
+LP000744,36900,0,Employed,26,Married,0,641,0,0.05,25000,0,114000,180,Education,Rural,Graduate,Male,Government,N
+LP000745,49500,22900,Employed,41,Married,0,722,1,0.22,18800,144800,181000,240,Home Purchase,Semiurban,Graduate,Male,Private Sector,Y
+LP000746,23500,11300,Self-Employed,59,Married,0,626,1,0.414,1900,111000,74000,360,Home Purchase,Rural,Doctorate,Female,MNC,N
+LP000747,40600,23800,Employed,44,Single,0,683,1,0.335,21400,0,251000,240,Business,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000748,23100,0,Employed,53,Single,2,654,1,0.218,19900,117000,78000,360,Debt Consolidation,Urban,Postgraduate,Female,Self-Employed,N
+LP000749,25200,14600,Employed,38,Divorced,0,690,3,0.257,15600,139200,116000,240,Home Purchase,Rural,Graduate,Male,PSU,Y
+LP000750,15600,15600,Employed,48,Married,0,489,3,0.129,22200,80400,67000,360,Debt Consolidation,Urban,Graduate,Male,MNC,Y
+LP000751,20900,0,Business Owner,52,Married,1,533,2,0.311,6900,41600,52000,180,Home Purchase,Semiurban,High School,Male,MNC,N
+LP000752,16100,28500,Employed,32,Single,2,729,2,0.541,21200,156000,195000,240,Personal,Urban,Graduate,Male,Self-Employed,N
+LP000753,20200,9700,Employed,62,Married,0,762,3,0.4,4800,73600,92000,180,Debt Consolidation,Urban,Graduate,Male,Private Sector,Y
+LP000754,68300,0,Business Owner,47,Married,0,607,0,0.539,18700,277500,185000,360,Home Purchase,Semiurban,Graduate,Male,PSU,N
+LP000755,20500,12600,Employed,30,Married,0,660,0,0.408,70100,121200,101000,360,Debt Consolidation,Urban,Postgraduate,Female,MNC,N
+LP000756,176200,9600,Employed,62,Married,2,703,1,0.423,7100,855600,713000,120,Home Purchase,Semiurban,Graduate,Male,MNC,Y
+LP000757,48800,0,Employed,52,Married,1,735,2,0.517,8900,184500,123000,360,Business,Rural,Graduate,Male,Private Sector,Y
+LP000758,40600,15500,Business Owner,62,Single,2,517,1,0.358,6500,91200,114000,240,Education,Urban,Graduate,Female,Government,N
+LP000759,21700,60700,Employed,46,Single,3,609,2,0.301,15000,321600,268000,180,Education,Urban,Graduate,Male,MNC,N
+LP000760,55300,22400,Employed,45,Married,2,653,0,0.423,6200,326400,272000,240,Home Purchase,Semiurban,Graduate,Male,Government,N
+LP000761,25700,9100,Employed,31,Married,1,736,0,0.465,23000,190500,127000,180,Home Purchase,Semiurban,Graduate,Male,MNC,Y
+LP000762,39100,0,Employed,43,Married,1,850,2,0.272,37300,129600,162000,240,Home Purchase,Rural,High School,Male,Private Sector,Y
+LP000763,168700,30100,Employed,54,Single,0,661,0,0.248,22600,624000,520000,240,Home Improvement,Urban,High School,Female,Private Sector,N
+LP000764,34300,51200,Employed,60,Married,3,567,1,0.334,3100,222000,148000,360,Debt Consolidation,Rural,Graduate,Male,Private Sector,N
+LP000765,72400,0,Employed,43,Single,0,712,0,0.403,35100,380400,317000,360,Debt Consolidation,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000766,23800,7000,Contract,49,Married,0,785,0,0.4,37000,0,86000,360,Education,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000767,35600,46000,Self-Employed,51,Married,2,688,2,0.178,29800,330000,275000,120,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000768,105100,21900,Employed,27,Married,0,607,1,0.511,18200,355200,444000,360,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000769,24900,0,Business Owner,60,Single,1,756,1,0.256,20100,93600,78000,360,Home Purchase,Urban,Graduate,Male,Government,Y
+LP000770,107700,23600,Employed,53,Married,1,733,0,0.293,37300,556000,278000,120,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000771,55500,0,Employed,41,Married,1,597,2,0.23,61900,250800,209000,360,Home Purchase,Semiurban,Graduate,Male,Self-Employed,Y
+LP000772,25900,0,Self-Employed,22,Married,2,710,1,0.59,7400,121200,101000,180,Debt Consolidation,Rural,Postgraduate,Male,MNC,Y
+LP000773,53100,0,Business Owner,38,Single,0,759,1,0.344,40000,201600,168000,240,Home Purchase,Semiurban,Graduate,Female,MNC,Y
+LP000774,65100,0,Self-Employed,53,Single,1,774,2,0.235,16100,0,193000,240,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000775,52700,10900,Employed,57,Married,1,674,0,0.406,13500,93600,117000,240,Business,Semiurban,Graduate,Female,Government,Y
+LP000776,14200,18800,Contract,54,Single,2,651,2,0.397,4200,116000,58000,360,Home Purchase,Semiurban,Graduate,Female,Government,N
+LP000777,23500,0,Employed,40,Married,2,778,1,0.301,13800,70800,59000,240,Home Improvement,Rural,Graduate,Male,PSU,Y
+LP000778,31300,20500,Business Owner,55,Married,0,583,1,0.404,5800,0,126000,120,Home Purchase,Semiurban,Graduate,Female,MNC,N
+LP000779,34700,11500,Contract,38,Married,1,715,0,0.237,11000,0,201000,360,Debt Consolidation,Urban,Postgraduate,Female,Government,Y
+LP000780,52700,14700,Employed,44,Married,0,570,3,0.271,5300,312000,260000,360,Education,Urban,Postgraduate,Male,Self-Employed,N
+LP000781,40400,0,Self-Employed,28,Single,3,765,2,0.119,11900,211500,141000,360,Home Purchase,Semiurban,Graduate,Male,Private Sector,Y
+LP000782,16300,25000,Employed,50,Single,0,659,0,0.188,10600,189000,126000,240,Debt Consolidation,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000783,45600,27700,Employed,64,Married,2,781,0,0.501,18800,117600,147000,120,Business,Urban,High School,Male,MNC,Y
+LP000784,52400,16000,Employed,30,Married,0,719,2,0.484,4400,606000,303000,360,Debt Consolidation,Rural,Postgraduate,Male,Private Sector,Y
+LP000785,50800,0,Employed,43,Single,0,582,1,0.327,4100,159600,133000,120,Home Purchase,Semiurban,Graduate,Male,Private Sector,N
+LP000786,69500,0,Contract,31,Divorced,1,793,2,0.486,23600,152400,127000,120,Home Purchase,Semiurban,Postgraduate,Female,MNC,Y
+LP000787,59900,15500,Self-Employed,22,Married,2,804,1,0.304,9500,270000,225000,240,Home Improvement,Urban,Graduate,Female,Private Sector,Y
+LP000788,47800,17600,Employed,46,Divorced,1,750,2,0.296,39400,0,270000,180,Education,Urban,High School,Male,Government,Y
+LP000789,34800,66900,Business Owner,56,Married,3,619,1,0.326,16500,846000,423000,120,Home Purchase,Rural,Graduate,Male,Self-Employed,Y
+LP000790,13400,10300,Contract,53,Married,1,655,0,0.308,23700,0,36000,240,Home Purchase,Rural,Graduate,Male,Private Sector,N
+LP000791,47000,0,Employed,33,Single,1,691,1,0.298,47600,156000,195000,180,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000792,41100,29700,Unemployed,60,Married,0,623,3,0.434,10800,246000,164000,180,Home Purchase,Urban,Graduate,Male,Private Sector,N
+LP000793,42700,20800,Employed,45,Married,2,815,0,0.335,11500,123600,103000,120,Home Purchase,Semiurban,High School,Female,Private Sector,Y
+LP000794,16900,0,Business Owner,24,Married,0,691,1,0.391,30900,102000,68000,180,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000795,19000,21700,Employed,62,Single,2,463,1,0.423,15500,200400,167000,360,Home Purchase,Semiurban,Graduate,Male,Private Sector,N
+LP000796,68300,21900,Employed,39,Single,3,707,1,0.359,13600,237600,297000,360,Home Purchase,Rural,High School,Male,Private Sector,N
+LP000797,35500,0,Employed,38,Married,3,652,2,0.223,44200,228000,114000,240,Education,Urban,Graduate,Female,Private Sector,Y
+LP000798,54700,33200,Self-Employed,57,Married,1,674,2,0.185,12700,0,346000,240,Home Purchase,Urban,Graduate,Female,MNC,Y
+LP000799,36900,0,Employed,50,Married,2,650,0,0.335,14900,213000,142000,120,Home Purchase,Rural,Postgraduate,Male,Self-Employed,N
+LP000800,37000,13200,Employed,39,Married,2,744,4,0.303,16800,0,209000,120,Home Purchase,Urban,Graduate,Male,MNC,Y
+LP000801,63800,9300,Employed,43,Married,0,769,2,0.329,8100,346500,231000,180,Education,Rural,Graduate,Male,Government,Y
+LP000802,26600,16300,Business Owner,36,Single,1,702,2,0.318,16600,0,189000,240,Business,Semiurban,Graduate,Male,Private Sector,Y
+LP000803,38500,12100,Employed,21,Married,0,652,1,0.578,44400,272400,227000,360,Business,Rural,Postgraduate,Female,MNC,N
+LP000804,27500,0,Employed,32,Married,1,676,2,0.187,21500,76500,51000,360,Home Purchase,Urban,High School,Female,Private Sector,Y
+LP000805,28000,33500,Employed,44,Married,0,681,0,0.121,15500,298800,249000,240,Business,Urban,Graduate,Female,Private Sector,Y
+LP000806,30200,14300,Employed,54,Married,0,615,0,0.353,12000,159600,133000,180,Debt Consolidation,Semiurban,Graduate,Male,Self-Employed,Y
+LP000807,41500,0,Business Owner,28,Divorced,0,726,2,0.282,21100,166500,111000,360,Home Purchase,Semiurban,Graduate,Male,Private Sector,Y
+LP000808,27200,18600,Business Owner,38,Married,1,716,0,0.352,29000,183600,153000,240,Debt Consolidation,Urban,Postgraduate,Female,Private Sector,Y
+LP000809,77100,27600,Employed,25,Married,1,803,0,0.378,29100,350000,175000,360,Business,Rural,Graduate,Male,Self-Employed,Y
+LP000810,21200,0,Employed,46,Married,0,780,2,0.448,13300,76800,64000,240,Business,Rural,High School,Female,Self-Employed,Y
+LP000811,32500,13300,Self-Employed,50,Married,1,625,2,0.169,18000,0,188000,360,Education,Semiurban,Graduate,Male,Private Sector,N
+LP000812,27900,20000,Employed,33,Married,0,745,0,0.264,24400,0,103000,360,Education,Urban,High School,Male,Private Sector,Y
+LP000813,86500,0,Business Owner,39,Married,1,603,2,0.363,6000,0,240000,360,Home Purchase,Semiurban,Postgraduate,Female,Government,N
+LP000814,40900,14100,Self-Employed,49,Married,1,735,1,0.397,18700,0,238000,240,Debt Consolidation,Semiurban,Postgraduate,Male,MNC,N
+LP000815,67400,0,Self-Employed,23,Married,1,638,1,0.539,2500,225600,188000,240,Home Purchase,Semiurban,Graduate,Male,Private Sector,N
+LP000816,14900,0,Employed,46,Married,2,598,2,0.416,19600,0,38000,180,Education,Rural,Postgraduate,Male,Government,N
+LP000817,42600,0,Employed,60,Married,0,702,1,0.314,26500,0,120000,360,Home Purchase,Urban,Graduate,Female,PSU,Y
+LP000818,61900,9900,Contract,32,Divorced,2,466,0,0.231,18900,0,220000,240,Business,Urban,Graduate,Male,Private Sector,N
+LP000819,38200,13200,Employed,22,Married,1,539,0,0.264,8700,262500,175000,180,Home Purchase,Urban,Graduate,Male,Self-Employed,N
+LP000820,68800,0,Self-Employed,31,Married,1,665,1,0.261,19000,321600,268000,240,Home Purchase,Rural,High School,Female,PSU,N
+LP000821,26600,0,Employed,64,Married,1,686,1,0.386,47700,60800,76000,180,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,N
+LP000822,84600,6000,Self-Employed,48,Married,0,650,2,0.346,44800,537000,358000,240,Home Purchase,Urban,Graduate,Female,MNC,Y
+LP000823,144300,0,Employed,38,Single,2,553,2,0.188,12000,0,447000,240,Education,Urban,Postgraduate,Male,Private Sector,N
+LP000824,29200,34100,Employed,33,Married,1,614,1,0.276,15300,318000,159000,240,Home Purchase,Urban,Graduate,Female,MNC,N
+LP000825,27800,25000,Employed,57,Single,0,711,2,0.408,38500,219600,183000,120,Debt Consolidation,Urban,High School,Male,MNC,Y
+LP000826,86900,10200,Self-Employed,42,Married,0,726,0,0.355,4900,0,355000,360,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000827,93700,16300,Self-Employed,32,Married,0,678,0,0.377,11700,418800,349000,360,Home Purchase,Urban,Postgraduate,Female,MNC,Y
+LP000828,26500,0,Employed,22,Single,3,772,2,0.358,50000,66000,44000,360,Home Purchase,Urban,Graduate,Female,MNC,Y
+LP000829,28200,24300,Employed,57,Married,2,711,0,0.483,34500,127200,106000,240,Home Purchase,Rural,High School,Male,Private Sector,Y
+LP000830,30700,25200,Self-Employed,27,Married,0,620,0,0.344,18500,198000,132000,360,Education,Semiurban,High School,Male,Private Sector,Y
+LP000831,16200,12500,Employed,46,Married,0,657,1,0.281,4400,0,67000,240,Debt Consolidation,Semiurban,Postgraduate,Female,Private Sector,N
+LP000832,20900,0,Employed,46,Single,1,567,1,0.228,12100,59200,74000,180,Home Purchase,Urban,Graduate,Male,Government,N
+LP000833,19900,22700,Employed,44,Married,2,671,2,0.345,9300,0,66000,180,Debt Consolidation,Urban,Postgraduate,Male,PSU,Y
+LP000834,22900,0,Employed,32,Single,0,768,0,0.076,22300,0,86000,240,Home Purchase,Semiurban,Postgraduate,Female,MNC,Y
+LP000835,35600,0,Employed,36,Married,0,734,0,0.302,8600,0,82000,180,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000836,41800,0,Employed,43,Single,2,792,0,0.299,7800,204000,102000,360,Debt Consolidation,Urban,Graduate,Female,Government,Y
+LP000837,92100,18800,Employed,60,Married,0,655,1,0.184,2800,0,342000,120,Home Purchase,Rural,Graduate,Male,Private Sector,N
+LP000838,20000,36500,Employed,29,Single,0,787,1,0.227,46600,145200,121000,240,Home Improvement,Rural,Postgraduate,Female,Private Sector,Y
+LP000839,65600,22100,Employed,52,Married,3,664,1,0.401,10700,436800,364000,240,Debt Consolidation,Urban,Graduate,Female,Government,N
+LP000840,31900,11700,Employed,35,Single,1,797,2,0.343,20100,115500,77000,240,Business,Urban,Graduate,Male,Government,Y
+LP000841,35300,0,Employed,57,Married,0,678,3,0.33,15100,200000,100000,240,Education,Rural,Postgraduate,Female,Government,Y
+LP000842,54400,25600,Business Owner,33,Married,0,736,0,0.351,7000,486000,324000,180,Home Purchase,Urban,Graduate,Male,PSU,Y
+LP000843,18500,0,Employed,25,Married,0,798,1,0.329,6500,124000,62000,360,Home Purchase,Semiurban,Graduate,Female,Government,Y
+LP000844,45700,14200,Employed,31,Married,0,664,1,0.444,6600,213000,142000,240,Home Purchase,Rural,Graduate,Female,Government,N
+LP000845,40100,20900,Employed,30,Married,2,697,3,0.332,8700,336000,168000,240,Home Purchase,Rural,High School,Male,Private Sector,Y
+LP000846,48800,22700,Employed,33,Divorced,1,783,4,0.174,23400,310800,259000,360,Business,Semiurban,Postgraduate,Female,PSU,Y
+LP000847,43200,19900,Employed,61,Divorced,2,669,0,0.483,7900,0,279000,360,Business,Urban,Graduate,Male,MNC,N
+LP000848,158400,0,Employed,35,Married,3,574,2,0.357,51700,794400,662000,360,Debt Consolidation,Urban,High School,Female,Self-Employed,Y
+LP000849,24800,42200,Business Owner,62,Single,1,850,1,0.261,43000,202800,169000,360,Debt Consolidation,Rural,Graduate,Male,Private Sector,Y
+LP000850,26400,30800,Employed,27,Married,0,642,0,0.195,27300,205600,257000,240,Home Purchase,Rural,High School,Female,Government,N
+LP000851,25000,19800,Contract,60,Married,1,692,0,0.36,14000,54400,68000,240,Debt Consolidation,Semiurban,Graduate,Female,Government,Y
+LP000852,26000,0,Employed,48,Single,3,772,1,0.308,57700,49200,41000,360,Business,Semiurban,Graduate,Male,Private Sector,Y
+LP000853,24800,10800,Employed,52,Single,2,631,1,0.477,11800,282000,141000,360,Debt Consolidation,Semiurban,Graduate,Female,MNC,N
+LP000854,74100,22000,Employed,55,Divorced,0,599,0,0.285,13000,0,202000,180,Home Purchase,Semiurban,Graduate,Male,Self-Employed,N
+LP000855,85200,0,Employed,35,Married,2,700,1,0.236,17900,214500,143000,240,Home Improvement,Rural,Graduate,Male,Private Sector,Y
+LP000856,25800,0,Employed,56,Single,1,536,0,0.41,20900,68400,57000,360,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,N
+LP000857,22000,11800,Self-Employed,41,Married,3,656,1,0.413,24300,188000,94000,240,Debt Consolidation,Semiurban,High School,Male,MNC,N
+LP000858,48200,13000,Employed,26,Married,0,699,0,0.337,10600,452000,226000,240,Debt Consolidation,Urban,Graduate,Male,Private Sector,Y
+LP000859,26100,0,Contract,21,Married,1,658,0,0.388,9600,132000,88000,240,Home Purchase,Semiurban,Graduate,Male,Government,N
+LP000860,53100,0,Business Owner,24,Divorced,2,556,1,0.316,20700,141600,118000,360,Home Improvement,Semiurban,Graduate,Male,MNC,Y
+LP000861,41000,0,Employed,31,Single,1,807,0,0.343,31800,0,123000,360,Education,Urban,Graduate,Male,Private Sector,Y
+LP000862,14600,0,Employed,64,Single,1,688,1,0.436,11200,74400,62000,240,Home Purchase,Rural,Postgraduate,Male,MNC,Y
+LP000863,91900,18200,Employed,46,Married,0,794,0,0.383,5000,651000,434000,180,Education,Semiurban,Graduate,Female,Government,Y
+LP000864,106700,28300,Employed,57,Married,0,659,1,0.303,12400,499500,333000,180,Debt Consolidation,Rural,Postgraduate,Female,Self-Employed,N
+LP000865,25100,11500,Employed,43,Married,0,609,0,0.455,22300,244500,163000,120,Home Improvement,Urban,Graduate,Male,MNC,N
+LP000866,28800,38500,Employed,49,Married,3,701,1,0.084,66200,0,244000,240,Business,Semiurban,Graduate,Female,Self-Employed,Y
+LP000867,43100,0,Employed,41,Married,0,662,2,0.525,5700,87600,73000,240,Debt Consolidation,Urban,Graduate,Female,Private Sector,N
+LP000868,44400,30200,Employed,47,Single,1,585,0,0.149,9300,96000,120000,180,Business,Rural,Graduate,Female,Private Sector,N
+LP000869,53900,13000,Unemployed,59,Married,2,797,1,0.257,13000,0,134000,360,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000870,121300,27600,Self-Employed,60,Married,0,630,0,0.316,41500,0,548000,360,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,N
+LP000871,32700,10400,Contract,33,Married,1,532,1,0.305,11500,0,88000,180,Home Improvement,Rural,Graduate,Female,Self-Employed,N
+LP000872,22500,0,Employed,43,Married,2,786,0,0.421,8500,102000,68000,240,Education,Urban,Graduate,Female,Government,Y
+LP000873,15900,19700,Employed,36,Married,2,639,1,0.214,22200,50400,63000,360,Education,Rural,Postgraduate,Male,Self-Employed,N
+LP000874,23400,0,Employed,50,Divorced,1,631,1,0.346,10200,80000,100000,240,Home Improvement,Rural,Graduate,Male,Private Sector,N
+LP000875,35600,10000,Employed,24,Married,2,538,3,0.262,4500,230000,115000,360,Debt Consolidation,Urban,Postgraduate,Female,Private Sector,N
+LP000876,106600,0,Employed,60,Single,0,819,1,0.35,8900,360000,450000,240,Home Purchase,Urban,Graduate,Female,Self-Employed,Y
+LP000877,26600,0,Self-Employed,36,Married,3,576,1,0.314,51300,0,115000,360,Personal,Urban,Graduate,Female,Private Sector,N
+LP000878,41500,11200,Self-Employed,51,Married,0,684,1,0.329,20700,64000,80000,360,Home Purchase,Urban,High School,Male,MNC,Y
+LP000879,36000,0,Employed,62,Married,2,753,3,0.265,18300,0,104000,360,Home Improvement,Rural,Postgraduate,Male,Private Sector,Y
+LP000880,74100,9100,Employed,45,Single,0,713,2,0.269,13000,0,131000,360,Debt Consolidation,Rural,Graduate,Male,Self-Employed,Y
+LP000881,165400,0,Employed,64,Single,3,675,0,0.349,19000,0,699000,360,Home Improvement,Urban,Graduate,Male,Government,Y
+LP000882,26400,9700,Employed,32,Married,2,543,2,0.414,15100,132000,110000,240,Home Purchase,Semiurban,High School,Male,MNC,N
+LP000883,27100,23800,Employed,46,Married,2,615,1,0.26,17300,0,88000,180,Personal,Semiurban,Graduate,Female,Private Sector,N
+LP000884,67900,24700,Employed,57,Married,0,695,2,0.233,17000,136000,170000,240,Debt Consolidation,Urban,Graduate,Male,Government,Y
+LP000885,54700,0,Employed,53,Married,1,617,2,0.381,27500,217500,145000,360,Education,Urban,Postgraduate,Female,Self-Employed,N
+LP000886,110000,0,Contract,48,Divorced,1,696,0,0.317,15800,570000,475000,360,Home Purchase,Urban,Postgraduate,Male,Self-Employed,Y
+LP000887,51600,0,Employed,29,Married,2,734,2,0.403,7500,370000,185000,180,Debt Consolidation,Semiurban,Postgraduate,Male,Private Sector,N
+LP000888,29300,0,Self-Employed,32,Married,0,757,0,0.229,10300,144000,120000,120,Home Improvement,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000889,51800,10900,Employed,25,Married,3,581,0,0.142,2700,130400,163000,360,Home Improvement,Semiurban,Postgraduate,Male,Private Sector,N
+LP000890,70600,6800,Employed,48,Married,2,850,0,0.267,95800,189000,126000,180,Education,Urban,Postgraduate,Female,Private Sector,Y
+LP000891,59400,21500,Employed,55,Married,0,741,2,0.243,32900,0,358000,240,Home Purchase,Rural,Postgraduate,Male,MNC,Y
+LP000892,49200,8200,Employed,25,Married,2,679,0,0.312,7800,0,89000,360,Home Purchase,Semiurban,Graduate,Male,Private Sector,Y
+LP000893,68900,18900,Employed,54,Single,1,767,0,0.256,13600,457200,381000,240,Debt Consolidation,Rural,Graduate,Male,Private Sector,Y
+LP000894,73200,15800,Self-Employed,54,Single,1,850,2,0.394,11400,278400,232000,120,Home Purchase,Semiurban,Postgraduate,Male,MNC,Y
+LP000895,83200,0,Self-Employed,33,Married,0,564,0,0.291,43100,190500,127000,180,Personal,Rural,High School,Female,Government,N
+LP000896,53600,15500,Employed,59,Single,1,661,0,0.335,4700,494000,247000,180,Home Purchase,Rural,Graduate,Male,MNC,N
+LP000897,32900,15300,Employed,62,Married,2,489,0,0.336,11900,171200,214000,180,Debt Consolidation,Semiurban,Graduate,Female,PSU,N
+LP000898,39700,26000,Contract,34,Married,1,695,1,0.339,14200,346800,289000,240,Home Purchase,Urban,High School,Female,Private Sector,Y
+LP000899,74900,0,Employed,31,Married,1,709,1,0.318,30600,178800,149000,240,Debt Consolidation,Rural,Postgraduate,Male,MNC,Y
+LP000900,22200,0,Employed,62,Married,2,676,0,0.371,13900,90000,45000,180,Home Purchase,Semiurban,Graduate,Male,Private Sector,Y
+LP000901,45300,22800,Employed,58,Married,2,627,3,0.24,3400,327000,218000,120,Home Purchase,Rural,Postgraduate,Female,Private Sector,Y
+LP000902,28700,8400,Self-Employed,24,Married,0,516,2,0.46,9400,254000,127000,180,Home Purchase,Rural,Doctorate,Female,Private Sector,N
+LP000903,36900,26300,Unemployed,53,Married,2,709,0,0.296,7300,188000,235000,360,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,N
+LP000904,78200,0,Employed,27,Divorced,1,796,0,0.189,18900,240000,160000,240,Personal,Urban,Postgraduate,Male,Private Sector,Y
+LP000905,40700,10800,Business Owner,61,Married,0,632,1,0.339,44300,180000,225000,360,Home Purchase,Urban,Graduate,Male,Private Sector,N
+LP000906,37300,0,Business Owner,28,Married,0,715,1,0.235,4000,0,127000,360,Debt Consolidation,Rural,High School,Male,Self-Employed,Y
+LP000907,16100,0,Employed,57,Married,1,554,0,0.387,6500,130000,65000,240,Personal,Urban,Graduate,Male,MNC,N
+LP000908,56800,0,Employed,30,Married,2,716,0,0.541,10200,0,177000,360,Business,Urban,High School,Male,PSU,N
+LP000909,53500,21300,Employed,63,Married,0,648,2,0.241,10600,410000,205000,180,Personal,Semiurban,Graduate,Male,Government,N
+LP000910,133000,36900,Contract,35,Single,2,619,0,0.353,24900,0,753000,360,Personal,Semiurban,Graduate,Male,Private Sector,N
+LP000911,30200,0,Employed,58,Married,0,619,1,0.144,12000,147000,98000,180,Debt Consolidation,Urban,Graduate,Male,Private Sector,N
+LP000912,41400,9400,Self-Employed,35,Married,1,648,2,0.365,20100,166400,208000,360,Home Improvement,Urban,Graduate,Female,Private Sector,N
+LP000913,42200,0,Employed,25,Married,3,710,1,0.231,9600,147200,184000,120,Home Purchase,Semiurban,Postgraduate,Female,Private Sector,Y
+LP000914,93600,35000,Self-Employed,49,Married,2,575,0,0.258,15400,0,453000,360,Debt Consolidation,Urban,High School,Female,MNC,N
+LP000915,34300,21900,Employed,39,Married,0,648,1,0.21,26900,212400,177000,120,Business,Rural,Postgraduate,Male,Government,N
+LP000916,42900,31100,Employed,30,Married,1,676,0,0.393,8400,89600,112000,360,Debt Consolidation,Urban,High School,Female,Private Sector,N
+LP000917,52300,0,Business Owner,32,Married,0,592,2,0.421,24600,102000,85000,240,Home Improvement,Rural,Graduate,Male,Private Sector,N
+LP000918,40600,30100,Business Owner,24,Married,1,823,1,0.322,19100,0,149000,360,Home Improvement,Rural,Postgraduate,Female,Private Sector,Y
+LP000919,27800,20400,Business Owner,51,Married,2,611,2,0.234,31400,0,99000,240,Home Purchase,Semiurban,High School,Male,Private Sector,N
+LP000920,40800,0,Employed,38,Divorced,2,626,3,0.479,11900,0,92000,240,Education,Urban,Postgraduate,Male,Private Sector,N
+LP000921,69200,19400,Self-Employed,36,Married,0,601,3,0.245,18200,256800,214000,360,Debt Consolidation,Semiurban,Graduate,Female,MNC,Y
+LP000922,19600,0,Employed,60,Single,3,823,3,0.104,17700,76500,51000,360,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000923,39300,15100,Employed,56,Single,1,724,1,0.366,14900,225000,150000,120,Business,Urban,Postgraduate,Female,MNC,Y
+LP000924,23900,0,Employed,45,Married,0,605,1,0.21,16600,0,43000,360,Debt Consolidation,Rural,Graduate,Male,Private Sector,N
+LP000925,74400,12000,Employed,43,Married,1,768,1,0.419,26300,169200,141000,360,Business,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000926,14600,38800,Employed,32,Married,1,696,1,0.282,5700,282000,188000,360,Debt Consolidation,Rural,High School,Male,MNC,Y
+LP000927,26000,0,Unemployed,54,Single,1,700,2,0.38,49100,64800,81000,240,Home Purchase,Urban,Graduate,Female,Government,N
+LP000928,45500,0,Employed,56,Married,1,652,0,0.46,3300,154800,129000,240,Business,Urban,Postgraduate,Male,Private Sector,N
+LP000929,92900,0,Self-Employed,57,Single,1,620,3,0.199,8000,379200,316000,360,Debt Consolidation,Rural,Postgraduate,Female,Self-Employed,N
+LP000930,34900,6300,Employed,23,Divorced,0,707,2,0.263,14600,0,164000,240,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000931,26000,0,Employed,29,Single,2,636,3,0.312,19700,0,72000,240,Home Purchase,Semiurban,Graduate,Female,Private Sector,N
+LP000932,112300,28100,Employed,38,Married,1,825,2,0.474,64800,0,481000,120,Education,Semiurban,High School,Male,MNC,Y
+LP000933,15200,0,Contract,63,Married,0,578,0,0.254,2900,79200,66000,180,Home Purchase,Urban,Graduate,Male,MNC,N
+LP000934,9700,0,Business Owner,55,Single,2,802,0,0.261,11900,0,39000,360,Business,Semiurban,Graduate,Male,Private Sector,Y
+LP000935,47300,47900,Business Owner,54,Married,3,671,0,0.368,2700,0,264000,360,Home Purchase,Urban,High School,Male,Private Sector,N
+LP000936,26900,0,Unemployed,61,Married,3,703,0,0.262,16100,73600,92000,240,Home Improvement,Semiurban,Postgraduate,Male,Self-Employed,Y
+LP000937,19700,10600,Employed,34,Single,0,746,1,0.335,20600,0,62000,180,Education,Semiurban,High School,Male,Private Sector,Y
+LP000938,55500,37800,Employed,24,Married,0,629,2,0.165,50000,0,297000,240,Home Purchase,Rural,Graduate,Male,Private Sector,N
+LP000939,42000,48100,Self-Employed,49,Single,1,749,2,0.541,18400,800000,400000,240,Debt Consolidation,Semiurban,Graduate,Male,Government,Y
+LP000940,25900,18100,Employed,61,Single,0,463,1,0.185,23800,0,134000,240,Business,Urban,High School,Male,Self-Employed,N
+LP000941,16800,29900,Employed,35,Married,3,622,0,0.288,22100,240000,200000,360,Business,Semiurban,Graduate,Male,Private Sector,Y
+LP000942,61300,0,Employed,48,Divorced,0,606,0,0.317,9500,133600,167000,360,Debt Consolidation,Urban,Postgraduate,Male,MNC,N
+LP000943,53600,0,Employed,62,Married,0,579,0,0.511,4200,289200,241000,120,Home Improvement,Urban,Postgraduate,Female,Government,N
+LP000944,34200,0,Employed,36,Married,1,662,1,0.188,18400,133200,111000,360,Business,Urban,Postgraduate,Female,Private Sector,Y
+LP000945,110000,33400,Employed,32,Married,0,710,1,0.518,4800,0,233000,240,Business,Semiurban,Graduate,Male,MNC,N
+LP000946,19100,0,Employed,25,Married,2,736,0,0.396,46200,93000,62000,360,Business,Urban,Postgraduate,Female,PSU,Y
+LP000947,14500,23900,Employed,54,Married,1,699,0,0.362,13700,106800,89000,180,Home Purchase,Semiurban,High School,Female,Private Sector,Y
+LP000948,24000,11600,Employed,62,Married,0,626,0,0.222,36300,85500,57000,360,Personal,Rural,Graduate,Male,Private Sector,N
+LP000949,35300,48700,Employed,21,Married,0,709,1,0.377,10800,399600,333000,180,Debt Consolidation,Semiurban,Graduate,Male,Self-Employed,Y
+LP000950,42000,13800,Self-Employed,59,Married,1,689,1,0.248,19000,260000,130000,240,Home Purchase,Urban,Graduate,Female,MNC,Y
+LP000951,31400,0,Employed,52,Single,0,754,1,0.447,19800,183000,122000,120,Home Purchase,Urban,Graduate,Female,Private Sector,Y
+LP000952,44900,21400,Employed,46,Single,1,742,1,0.223,15900,314000,157000,180,Home Purchase,Semiurban,High School,Female,Government,Y
+LP000953,17100,39200,Self-Employed,37,Married,1,682,3,0.309,10700,140400,117000,120,Home Purchase,Rural,High School,Female,MNC,Y
+LP000954,86400,0,Employed,47,Married,2,608,0,0.264,18500,458400,382000,180,Home Purchase,Urban,Doctorate,Male,MNC,Y
+LP000955,34600,0,Employed,44,Married,3,627,1,0.221,6700,133500,89000,180,Home Purchase,Rural,Postgraduate,Male,Self-Employed,Y
+LP000956,71000,22700,Self-Employed,55,Married,3,636,2,0.394,5400,465000,310000,360,Home Improvement,Semiurban,Postgraduate,Male,Private Sector,N
+LP000957,44600,18400,Employed,62,Single,3,654,1,0.374,39400,420000,210000,120,Home Purchase,Semiurban,Graduate,Male,Private Sector,N
+LP000958,47800,23800,Self-Employed,59,Single,0,701,3,0.441,27900,182400,228000,360,Home Purchase,Rural,Postgraduate,Male,Government,N
+LP000959,51100,5100,Self-Employed,46,Married,0,737,1,0.142,17300,358500,239000,180,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000960,47500,15500,Self-Employed,58,Married,0,675,1,0.426,56900,0,222000,360,Home Purchase,Rural,High School,Male,Government,Y
+LP000961,53400,20300,Employed,43,Married,2,681,0,0.571,12200,240000,200000,360,Home Purchase,Urban,High School,Male,Private Sector,N
+LP000962,80600,0,Employed,42,Married,3,691,1,0.275,44300,0,329000,180,Debt Consolidation,Semiurban,High School,Male,Private Sector,Y
+LP000963,40900,0,Employed,24,Married,2,638,0,0.51,16300,67200,84000,360,Personal,Semiurban,High School,Male,Government,N
+LP000964,55600,0,Employed,29,Divorced,0,605,0,0.294,5900,348000,174000,120,Education,Urban,High School,Male,MNC,N
+LP000965,34400,43400,Employed,24,Single,3,539,1,0.183,52600,0,339000,360,Education,Semiurban,Graduate,Male,MNC,N
+LP000966,86200,39600,Employed,27,Married,1,624,1,0.289,30700,510000,425000,240,Home Purchase,Urban,High School,Female,Government,N
+LP000967,24200,14300,Employed,43,Married,0,717,0,0.425,14500,182400,152000,120,Home Purchase,Urban,Postgraduate,Female,Private Sector,Y
+LP000968,107000,0,Employed,22,Single,1,623,1,0.236,24800,0,370000,240,Home Purchase,Urban,Graduate,Male,Private Sector,N
+LP000969,35500,17400,Employed,44,Married,0,660,1,0.26,10600,170400,213000,120,Business,Semiurban,Graduate,Male,MNC,N
+LP000970,15400,14400,Employed,60,Married,1,717,0,0.379,31000,154800,129000,240,Home Purchase,Rural,Postgraduate,Female,Private Sector,Y
+LP000971,39200,19900,Self-Employed,51,Married,0,721,1,0.32,2400,0,137000,360,Debt Consolidation,Semiurban,Graduate,Male,MNC,Y
+LP000972,24100,12300,Employed,51,Single,1,593,2,0.378,5800,109500,73000,240,Home Purchase,Semiurban,Graduate,Female,Government,N
+LP000973,60100,0,Employed,60,Married,1,759,1,0.344,37000,354000,177000,240,Home Purchase,Urban,Postgraduate,Male,Private Sector,Y
+LP000974,24500,24600,Contract,63,Single,2,770,1,0.368,14000,0,177000,180,Personal,Rural,High School,Female,MNC,Y
+LP000975,27800,0,Employed,54,Single,2,589,0,0.277,15500,0,61000,180,Business,Semiurban,Postgraduate,Female,Private Sector,N
+LP000976,11700,0,Employed,44,Single,1,614,1,0.343,4700,21600,18000,180,Business,Rural,Graduate,Female,Government,N
+LP000977,27700,28200,Employed,46,Single,2,775,3,0.227,75700,169200,141000,360,Debt Consolidation,Rural,Graduate,Male,Private Sector,Y
+LP000978,8500,13200,Self-Employed,36,Married,3,668,1,0.449,38600,76800,96000,180,Education,Urban,Graduate,Female,Private Sector,N
+LP000979,14000,20500,Employed,33,Married,0,502,0,0.257,9500,0,124000,240,Home Improvement,Semiurban,Graduate,Female,Government,N
+LP000980,57300,27200,Employed,35,Single,1,568,1,0.433,9100,273600,228000,240,Education,Rural,Graduate,Female,Government,N
+LP000981,58200,17700,Employed,47,Single,0,660,2,0.297,33500,316000,158000,180,Home Purchase,Urban,Doctorate,Male,MNC,Y
+LP000982,46900,22600,Business Owner,24,Married,0,586,0,0.34,63700,142400,178000,360,Debt Consolidation,Semiurban,Postgraduate,Female,MNC,N
+LP000983,20300,13900,Employed,36,Married,2,646,4,0.271,30800,82800,69000,240,Home Improvement,Rural,Graduate,Male,MNC,N
+LP000984,35300,0,Employed,50,Single,2,682,3,0.218,86300,128000,64000,240,Home Purchase,Urban,Graduate,Male,Private Sector,Y
+LP000985,36200,0,Business Owner,64,Single,0,796,0,0.146,8500,183600,153000,240,Education,Rural,Graduate,Male,Government,Y
+LP000986,18100,0,Employed,50,Married,2,656,3,0.214,7600,97200,81000,240,Personal,Rural,Graduate,Male,Government,N
+LP000987,89500,16500,Business Owner,56,Married,2,765,1,0.288,6600,253200,211000,240,Debt Consolidation,Semiurban,Graduate,Female,Private Sector,Y
+LP000988,61500,0,Employed,23,Married,3,794,2,0.341,25200,204000,102000,240,Home Purchase,Urban,High School,Female,Government,Y
+LP000989,31800,0,Business Owner,42,Married,0,794,1,0.421,20300,94800,79000,360,Debt Consolidation,Urban,Graduate,Male,Self-Employed,Y
+LP000990,36900,0,Employed,42,Married,3,702,1,0.275,13800,159000,106000,120,Business,Urban,Graduate,Female,Private Sector,Y
+LP000991,41200,15900,Self-Employed,32,Married,0,522,1,0.232,22200,145200,121000,240,Home Improvement,Rural,Graduate,Female,Self-Employed,Y
+LP000992,10700,0,Business Owner,41,Married,1,716,2,0.176,42700,31200,26000,120,Home Purchase,Rural,Postgraduate,Male,Private Sector,Y
+LP000993,31300,17500,Employed,24,Married,0,763,0,0.368,5000,82400,103000,180,Debt Consolidation,Semiurban,Graduate,Female,Private Sector,Y
+LP000994,24100,0,Employed,51,Single,0,673,1,0.458,9300,73600,92000,240,Home Purchase,Urban,Graduate,Male,Private Sector,N
+LP000995,19900,27900,Employed,64,Single,2,819,0,0.447,35100,261000,174000,360,Business,Urban,Graduate,Male,Government,Y
+LP000996,30700,0,Employed,51,Married,1,748,0,0.391,11500,84000,105000,360,Home Purchase,Semiurban,Postgraduate,Male,Private Sector,Y
+LP000997,106800,0,Employed,43,Married,0,725,0,0.384,8500,340800,284000,120,Debt Consolidation,Semiurban,Graduate,Male,Self-Employed,Y
+LP000998,53300,10700,Employed,40,Single,0,766,1,0.49,38500,0,271000,240,Business,Rural,Graduate,Male,MNC,Y
+LP000999,25800,0,Employed,35,Married,2,706,0,0.353,5600,171000,114000,240,Home Purchase,Semiurban,Graduate,Female,MNC,Y
+LP001000,51200,0,Employed,43,Divorced,0,480,0,0.385,8400,0,103000,180,Home Purchase,Rural,Graduate,Female,Government,N
