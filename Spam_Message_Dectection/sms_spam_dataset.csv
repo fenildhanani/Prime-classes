@@ -1,0 +1,51 @@
+label,text,length
+ham,"Hey, are we still meeting up for coffee tomorrow afternoon? Let me know!",72
+ham,Can you review the pull request when you get a chance? I pushed the fixes.,74
+ham,Mom said dinner will be ready around 8 pm. Don't be late.,57
+ham,I'll be reaching the office in about 15 minutes. Traffic is slightly heavy.,75
+ham,Thanks for sending over the project notes! They were really helpful.,68
+ham,Happy birthday! Hope you have an amazing day filled with joy and celebration!,77
+ham,Where did you save the dataset file? I can't find it in the shared folder.,74
+ham,"Yes, the meeting has been rescheduled to Thursday at 11:00 AM.",62
+ham,Did you finish the assignment for machine learning? Let's cross-check answers.,78
+ham,"Please pick up some groceries on your way back home: milk, bread, and eggs.",75
+ham,Your OTP for login is 482910. Valid for 10 minutes. Do not share it with anyone.,80
+ham,Can you send me the Zoom link for the team standup?,51
+ham,The lecture notes have been uploaded to the portal by the professor.,68
+ham,"I am running a bit late today, please start without me.",55
+ham,Let's catch up this weekend. It has been a while since we talked.,65
+ham,"Got your message, I will call you back once I step out of this meeting.",71
+ham,The package from Amazon was delivered at your doorstep.,55
+ham,Don't forget to push your code to GitHub before the demo tomorrow.,66
+ham,Great job on the presentation today! The client was very impressed.,67
+ham,Can you share the contact details of the vendor we discussed?,61
+ham,I've sent the updated resume to your email for a quick review.,62
+ham,Let me know when you reach home safely.,39
+ham,The test environment is currently down for maintenance until 4 PM.,66
+ham,"Hey, did you watch the latest episode yesterday? No spoilers please!",68
+ham,Could you please approve the pending leave request on the portal?,65
+ham,"Check out this article on neural networks, thought you might like it.",69
+ham,Are you free for a quick sync call around 3 PM today?,53
+ham,"I left my notebook on your desk, could you please keep it safe?",63
+ham,Flight is on time. Boarding starts at gate number 14 in 20 minutes.,67
+ham,"Thanks for your help with the bug fix earlier, saved me hours.",62
+spam,"CONGRATULATIONS! You have won a $1,000 Walmart Gift Card! Claim now: http://bit.ly/claim-gift-card",98
+spam,URGENT! Your mobile number won a guaranteed cash prize of £5000. Call 09061743811 now to collect!,97
+spam,"You are pre-approved for an instant personal loan of up to $50,000 at zero interest! Apply now at loan-fast.com",111
+spam,WINNER! You have been selected for a free iPhone 15 Pro Max. Click link to verify your address: http://claim-phone.xyz,118
+spam,FREE ENTRY in 2 a wkly comp to win a £1000 cash prize! Text WIN to 87121 to receive entry.,90
+spam,Hot singles in your area want to chat with you right now! Reply YES to join free for 24 hours.,94
+spam,Alert: Your bank account has been suspended due to suspicious activity. Verify immediately: http://secure-bank-login.com,120
+spam,Final Notice: Your vehicle warranty has expired. Call 1-800-555-0199 now to renew and avoid penalty fees.,105
+spam,Double your bitcoin investment within 24 hours! 100% guaranteed returns. Join Telegram: t.me/crypto_fast_profit,111
+spam,Exclusive deal! Get 85% discount on designer watches and sunglasses. Offer ends tonight! Visit lux-store-sale.net,113
+spam,Your package delivery could not be completed. Update shipping fee ($1.99) here to avoid return: http://usps-track-pkg.info,122
+spam,Earn $500/day working from home using just your smartphone! No experience needed. WhatsApp +1234567890,102
+spam,You have 1 unread message from Secret Admirer. Call 09099726395 to listen. Calls cost £1.50/min.,96
+spam,"URGENT NOTICE: Unclaimed tax refund of $1,420 waiting for you. Submit your SSN and direct deposit info here.",108
+spam,Congratulations! Your credit score qualifies you for debt elimination. Speak to an agent now: 888-555-0143,106
+spam,Special promo: Buy 1 Get 2 Free on all medicines and vitamins. Fast overnight shipping. Visit rx-discount-direct.org,116
+spam,"Dear customer, your Netflix subscription expired. Update billing info to avoid account termination: http://netflix-renew.cc",123
+spam,Claim your free spins and 200% casino deposit bonus today! Use promo code WINBIG at casino-jackpot777.com,105
+spam,Reminder: You have an outstanding court citation. Click here to view documents and pay citation to avoid arrest warrant.,120
+spam,Flash Sale: Air tickets from $19! Limited seats available across all domestic routes. Book right away at cheapflights-deals.co,126
