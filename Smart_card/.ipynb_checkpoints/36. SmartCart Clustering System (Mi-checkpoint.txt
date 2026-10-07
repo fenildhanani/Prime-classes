@@ -1,0 +1,54 @@
+36. SmartCart Clustering System (Minor Project)
+
+1
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/863db3ac4ec3886aff1c96236f6efa617dc21575.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/1. Project Introduction.mp4"
+
+2
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/a44bc9ca53d435c50f32253e7bc380d383775178.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/2. Handle Missing Data.mp4"
+
+3
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/8064702b29783240dfc56083562623a2bdb9c78b.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/3. Feature Engineering.mp4"
+
+4
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/d45fba93fb492684ceb16d0189f68125520e3bae.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/4. Drop Columns.mp4"
+
+5
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/94c62e48fffc1ef5a399f50829dc5b42914169d8.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/5. Handle Outliers.mp4"
+
+6
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/5c6afa52bec3c3f0c3070aa43afdee10c800966e.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/6. HeatMap of Features.mp4"
+
+7
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/d2537dfab39d893467462add641cb046a6ce0bf0.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/7. Feature Encoding & Scaling.mp4"
+
+8
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/c656e5e0cf4abd79dc7c0de7270e867b77c49be1.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/8. Visualizing our Data.mp4"
+
+9
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/3f86145aeb1b06bf03d81c309c33ca8adf1cceec.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/9. Choose K (Elbow & Silhouette Score).mp4"
+
+10
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/93b3ada4baf3a1362c3346f13eb9d4d4140af25b.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/10. Clustering or Segmentation.mp4"
+
+11
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/dca107a1ddf5b3b9db61363b06d0af534e8368f0.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/11. Characterization of Clusters.mp4"
+
+12
+ffmpeg -headers "Referer: https://fast.wistia.net" -i "https://embed-cloudfront.wistia.com/deliveries/300c4a1f70e74cfdb4b6a6415e21b122f1421b25.m3u8" -c:v copy -c:a aac -bsf:a aac_adtstoasc -movflags +faststart "D:\Apna Collage\ffmpeg-2026-04-01-git-eedf8f0165-essentials_build\bin\36. SmartCart Clustering System (Minor Project)/12. Cluster Summary for Profiling.mp4"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
